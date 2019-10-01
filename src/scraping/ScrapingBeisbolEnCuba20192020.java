@@ -1,6 +1,8 @@
 package scraping;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -34,12 +36,18 @@ public class ScrapingBeisbolEnCuba20192020 {
 
 		String file = "ejemplo.html";
 
-		DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
-		DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+		File input = new File("data/"  + file);
+		Document doc = null;
+		try {
+			doc = Jsoup.parse(input, "UTF-8", "http://example.com/");
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 
 		// elemento raiz
-		org.w3c.dom.Document doc = docBuilder.newDocument();
-		org.w3c.dom.Element rootElement = doc.createElement("game");
+//		Document doc = docBuilder.newDocument();
+		Element rootElement = doc.createElement("game");
 		doc.appendChild(rootElement);
 
 		if (getStatusConnectionCode(url) == 200) {
@@ -48,6 +56,48 @@ public class ScrapingBeisbolEnCuba20192020 {
 			Document documento = getHtmlDocument(url);
 //			Document documento = getHtmlFileToDocument(file);
 
+			//buscando en class game-stat
+//			Elements gameSstat = documento
+//					.select("div.game-stat");
+//			System.out.println(gameSstat.size());
+			
+			//toma el elemnto time
+			Elements elementosTime = documento
+					.select("time");
+			rootElement.attr("fecha",elementosTime.get(0).attr("datetime"));
+			System.out.println(elementosTime.get(0).attr("datetime"));
+			rootElement.attr("fase","clasificatoria");
+			
+			//se toma los elementos table con class stats y tbody
+			Elements elementosTbody = documento
+					.select("table.stats > tbody");
+			System.out.println(elementosTbody.size());
+			//marcador
+			Element marcadorCompleto = elementosTbody.get(0);
+			Elements marcadorCompletoTr = marcadorCompleto.select("tr");
+			
+			Element marcadorCompletoTrVisi = marcadorCompletoTr.get(2);
+			Elements marcadorCompletoTrVisiTd = marcadorCompletoTrVisi.select("td");
+			Element teamVisi = extractTeamMarcador(marcadorCompletoTrVisiTd, doc);
+			rootElement.appendChild(teamVisi);
+			
+			Element marcadorCompletoTrHome = marcadorCompletoTr.get(3);
+			Elements marcadorCompletoTrHomeTd = marcadorCompletoTrHome.select("td");
+			Element teamHome = extractTeamMarcador(marcadorCompletoTrHomeTd, doc);
+			rootElement.appendChild(teamHome);
+			
+			//System.out.println(marcadorCompletoTrVisi.html());
+			//batter visi
+			
+			//batter home
+			
+			//pitch visi
+			
+			//pitch home
+			
+			//pronostico
+			
+			
 //			Analizando el grupo de bateadores del team VS
 //			Elements elementosOffensiveVs = documento
 //					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Bateo_VS_DXMainTable] > tbody > tr");
@@ -85,22 +135,33 @@ public class ScrapingBeisbolEnCuba20192020 {
 		String nombreFichero = hourdateFormat.format(fecha);
 
 		// escribimos el contenido en un archivo .xml
-		TransformerFactory transformerFactory = TransformerFactory.newInstance();
-		Transformer transformer = transformerFactory.newTransformer();
-		DOMSource source = new DOMSource(doc);
-		String ruta = "dataXML\\";
-		StreamResult result = new StreamResult(new File(ruta, nombreFichero + ".xml"));
+				String ruta = "dataXML\\";
+				
+				
+				BufferedWriter  writer = null;
+		        try
+		        {
+		            writer = new BufferedWriter( new FileWriter(ruta + nombreFichero + ".xml"));
+		            System.out.println(rootElement.outerHtml());
+		            writer.write(rootElement.outerHtml());
 
-		// StreamResult result = new StreamResult(new File("archivo.xml"));
-		// Si se quiere mostrar por la consola...
-		// StreamResult result = new StreamResult(System.out);
-		try {
-			transformer.transform(source, result);
-		} catch (TransformerException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		System.out.println("File saved!");
+		        }
+		        catch ( IOException e)
+		        {
+		        	System.out.println("error");
+		        }
+		        finally
+		        {try {
+		        	if (writer != null){
+		        		writer.close();
+		        	}
+					
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}}
+				
+				System.out.println("File saved!");
 
 	}
 
@@ -158,6 +219,35 @@ public class ScrapingBeisbolEnCuba20192020 {
 			System.out.println("Excepción al obtener el HTML de la página" + ex.getMessage());
 		}
 		return doc;
+	}
+	
+	private static Element extractTeamMarcador(Elements elementos, Document doc) {
+		Element team = doc.createElement("team");
+		Element runxining = doc.createElement("runxining");
+		for (int i = 0; i < elementos.size(); i++) {
+			if(i == 0) {
+				// atributo nombre
+				team.attr("name", elementos.get(i).text());
+				
+			}else if(i == elementos.size()-1) {
+				//atributo errores
+				team.attr("e", elementos.get(i).text());
+				
+			}else if(i == elementos.size()-2) {
+				//atribiuto hit
+				team.attr("h", elementos.get(i).text());
+				
+			}else if(i == elementos.size()-3) {
+				//atributo carreras
+				team.attr("c", elementos.get(i).text());
+				
+			}else if (i>1 && i<elementos.size() - 4) {
+				//las carreras anotadas por entradas
+				runxining.attr(""+(i-1), elementos.get(i).text());
+			}
+		}
+		team.appendChild(runxining);
+		return team;
 	}
 	
 	private static org.w3c.dom.Element extractOffensiveHtmlToXml(Elements elementos,org.w3c.dom.Document doc) {

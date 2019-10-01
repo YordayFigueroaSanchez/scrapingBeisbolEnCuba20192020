@@ -1,0 +1,8 @@
+<game>
+ <team name="Camaguey" c="5" h="7" e="1">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="4" 8="0" 9="0"></runxining>
+ </team>
+ <team name="Mayabeque" c="1" h="4" e="1">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+ </team>
+</game>
