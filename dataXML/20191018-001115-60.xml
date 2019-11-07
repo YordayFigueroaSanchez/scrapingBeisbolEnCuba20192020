@@ -1,0 +1,51 @@
+<game fecha="2019-08-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="5" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="5" 7="0"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Carlos Benítez 2B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Darien Palma RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Joel Mojena P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González (1),RF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainiel Lopez LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Joel Mojena" inn="6.0" vb="22" h="8" c="2" cl="2" so="4" bb="2" sb="1"></player>
+   <player name="Carlos Santana" inn="1.0" vb="2" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Las Tunas" c="2" h="8" e="1">
+  <runxining 1="1" 2="0" 3="1" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Antonio D" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Denis Peña 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudier Rondón 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Dailier Peña LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudier Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Alarcón P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz (a),2B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonis Figueredo (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ernesto Felipe SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yudier Rodríguez" inn="5.1" vb="20" h="4" c="3" cl="2" so="4" bb="0" sb="1"></player>
+   <player name="Yosbel Alarcón" inn="1.2" vb="6" h="2" c="2" cl="0" so="0" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Las Tunas" valor="61"></voto>
+  <voto name="A favor de Granma" valor="42"></voto>
+ </pronostico>
+</game>

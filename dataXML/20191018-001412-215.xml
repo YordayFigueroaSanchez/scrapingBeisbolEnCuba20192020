@@ -1,0 +1,51 @@
+<game fecha="2019-09-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="10" h="14" e="3">
+  <runxining 1="0" 2="4" 3="0" 4="0" 5="0" 6="1" 7="2" 8="0" 9="3"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reinier León CF" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Emilio Blanco D" vb="5" r="1" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="William Saavedra 1B" vb="5" r="1" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="5" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández LF" vb="2" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González RF,LF" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yanciel Ajete C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Frank Luis Medina P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Frank A. álvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reinaldo Lazaga CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Luis Medina" inn="8.0" vb="31" h="8" c="2" cl="2" so="2" bb="3" sb="1"></player>
+   <player name="Frank A. álvarez" inn="1.0" vb="4" h="0" c="1" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Industriales" c="3" h="8" e="1">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Stayler Hernández RF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yhosvani Peñalver LF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jorge Enrique Alomá SS" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Lisbán Correa 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilfredo Yasel 2B" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmel Cordero D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayron Blanco CF" vb="3" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandi Molina P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adrián Rajiv Sosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Elder Nodal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yandi Molina" inn="1.2" vb="8" h="5" c="4" cl="4" so="0" bb="2" sb="0"></player>
+   <player name="Adrián Rajiv Sosa" inn="5.1" vb="20" h="5" c="3" cl="2" so="3" bb="2" sb="0"></player>
+   <player name="Elder Nodal" inn="2.0" vb="10" h="4" c="3" cl="3" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Industriales" valor="73"></voto>
+  <voto name="A favor de Pinar del Rio" valor="40"></voto>
+ </pronostico>
+</game>

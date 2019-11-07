@@ -1,0 +1,60 @@
+<game fecha="2019-09-03T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="6" h="12" e="1">
+  <runxining 1="2" 2="0" 3="3" 4="0" 5="0" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="5" r="2" h="4" double="1" triple="0" hr="2" rbi="4" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano D" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="3" r="1" h="3" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Sevilla LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Félix Rodríguez CF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Damián P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José A. Ozuna P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leorisbel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Bárbaro Herrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tomas La Rosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Rodríguez (1)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edwin Vassel (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Damián" inn="2.2" vb="11" h="4" c="4" cl="4" so="1" bb="2" sb="1"></player>
+   <player name="José A. Ozuna" inn="2.2" vb="9" h="3" c="0" cl="0" so="2" bb="0" sb="1"></player>
+   <player name="Leorisbel Sánchez" inn="0.2" vb="4" h="2" c="3" cl="3" so="0" bb="1" sb="0"></player>
+   <player name="Bárbaro Herrera" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="0" sb="1"></player>
+   <player name="Tomas La Rosa" inn="2.0" vb="8" h="3" c="2" cl="2" so="1" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="9" h="12" e="0">
+  <runxining 1="0" 2="0" 3="4" 4="0" 5="0" 6="0" 7="3" 8="2" 9=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="4" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="3" r="3" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Edilse Silva La D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="4" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez LF" vb="2" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon Serrano 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Bicet P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orrelly Ribeaux C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dasiel Sevila (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Reyna (b),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmedi Garcia P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Alberto Bicet" inn="6.0" vb="27" h="10" c="6" cl="6" so="6" bb="3" sb="0"></player>
+   <player name="Osmedi Garcia" inn="2.0" vb="8" h="2" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Yunior Tur" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="81"></voto>
+  <voto name="A favor de Cienfuegos" valor="37"></voto>
+ </pronostico>
+</game>

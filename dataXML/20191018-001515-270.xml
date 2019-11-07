@@ -1,0 +1,49 @@
+<game fecha="2019-09-24T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="4" h="7" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="3" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Michael González 3B" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Carabeo D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan C. Hernández 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Norbelis P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyler Gracial P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez (1)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Norbelis" inn="4.2" vb="20" h="7" c="3" cl="3" so="2" bb="2" sb="1"></player>
+   <player name="Geyler Gracial" inn="3.1" vb="12" h="4" c="2" cl="2" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="5" h="11" e="0">
+  <runxining 1="0" 2="1" 3="1" 4="0" 5="1" 6="0" 7="1" 8="1" 9=""></runxining>
+  <batters>
+   <player name="Eliseo Rojas CF,LF" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alberto Calderón LF,RF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jonathan Carbo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jhony Hardy (a),CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jonathan Carbo" inn="4.2" vb="18" h="6" c="4" cl="4" so="3" bb="3" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="4.1" vb="13" h="1" c="0" cl="0" so="6" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="92"></voto>
+  <voto name="A favor de Mayabeque" valor="19"></voto>
+ </pronostico>
+</game>

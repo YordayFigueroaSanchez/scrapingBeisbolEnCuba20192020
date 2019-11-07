@@ -1,0 +1,54 @@
+<game fecha="2019-08-18T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="5" h="11" e="2">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="2" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="4" r="1" h="3" double="1" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera D" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar RF,LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio David Góngora SS" vb="4" r="2" h="2" double="0" triple="1" hr="1" rbi="2" error="0"></player>
+   <player name="Rubén Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Wilson Paredes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López (1),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osday Silva 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+  </batters>
+  <pitchers>
+   <player name="Rubén Rodríguez" inn="5.0" vb="15" h="1" c="0" cl="0" so="2" bb="0" sb="1"></player>
+   <player name="Wilson Paredes" inn="4.0" vb="16" h="4" c="1" cl="1" so="5" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="1" h="5" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="2" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Loidel Chapelli LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis González RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Smith D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Góngora De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandy Yanes SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erislery Basulto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marino Luis (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Angel Daniel Ramírez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Alvarez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eglis Eugellés (b)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dariel Góngora De La" inn="6.2" vb="27" h="8" c="3" cl="3" so="7" bb="1" sb="0"></player>
+   <player name="Erislery Basulto" inn="1.1" vb="5" h="1" c="0" cl="0" so="2" bb="1" sb="0"></player>
+   <player name="Angel Daniel Ramírez" inn="1.0" vb="5" h="2" c="2" cl="2" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="67"></voto>
+  <voto name="A favor de Holguin" valor="34"></voto>
+ </pronostico>
+</game>

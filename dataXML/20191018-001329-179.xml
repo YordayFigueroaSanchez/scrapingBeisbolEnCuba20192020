@@ -1,0 +1,71 @@
+<game fecha="2019-09-08T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="10" h="17" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1" 8="0" 9="4" 10="1" 11="1" 12="3"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="5" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="6" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="7" r="1" h="4" double="1" triple="0" hr="0" rbi="4" error="0"></player>
+   <player name="Lázaro Alfredo 1B" vb="5" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo José D" vb="4" r="0" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF,RF,C" vb="5" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Guillermo Garcia RF,LF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Hubert Sánchez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="0" h="4" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="César García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Castillo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanquiel Sanchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanier González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González (2),SS" vb="2" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma (3),RF" vb="1" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez (4),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Joel Mojena P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="César García" inn="3.2" vb="13" h="4" c="2" cl="2" so="1" bb="5" sb="0"></player>
+   <player name="Yunier Castillo" inn="2.1" vb="7" h="3" c="2" cl="2" so="1" bb="2" sb="0"></player>
+   <player name="Kelbis Rodríguez" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yanquiel Sanchez" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Yanier González" inn="1.2" vb="6" h="2" c="1" cl="1" so="1" bb="0" sb="1"></player>
+   <player name="Joel Mojena" inn="4.0" vb="10" h="2" c="3" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="8" h="11" e="3">
+  <runxining 1="0" 2="0" 3="0" 4="2" 5="0" 6="1" 7="1" 8="1" 9="0" 10="1" 11="1" 12="1"></runxining>
+  <batters>
+   <player name="Daviel Gómez SS,2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yoandy Baguet 2B" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="5" r="2" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Ibarra C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Rodoleisi Moreno 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Angel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier (a),LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yankiel Mauri P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diasmany Palacio 1B" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Diosmeli Salabarria SS,3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Yankel Mencia (b),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Fontes SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sediel Mendoza P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alejandro Javier (c)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Carlos González (d)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pedro Angel Alvarez" inn="6.2" vb="26" h="9" c="1" cl="1" so="6" bb="2" sb="1"></player>
+   <player name="Yankiel Mauri" inn="1.2" vb="9" h="4" c="3" cl="3" so="2" bb="0" sb="0"></player>
+   <player name="Yanieski Duardo" inn="2.2" vb="10" h="3" c="6" cl="1" so="1" bb="3" sb="0"></player>
+   <player name="Sediel Mendoza" inn="1.0" vb="3" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="84"></voto>
+  <voto name="A favor de Granma" valor="35"></voto>
+ </pronostico>
+</game>

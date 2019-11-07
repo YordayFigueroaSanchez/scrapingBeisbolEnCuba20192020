@@ -1,0 +1,52 @@
+<game fecha="2019-09-05T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="4" h="10" e="2">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="3" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Orlando Lavandera CF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Pozo D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasniel González 1B" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Orlando Capote RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Jeison Martinez LF" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yadián Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez (1),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alyanser álvarez Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yadián Martínez" inn="7.0" vb="30" h="12" c="7" cl="6" so="6" bb="4" sb="1"></player>
+   <player name="Mario Batista" inn="0.1" vb="2" h="1" c="0" cl="0" so="0" bb="2" sb="0"></player>
+   <player name="Alyanser álvarez Del" inn="0.2" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="7" h="13" e="0">
+  <runxining 1="0" 2="2" 3="1" 4="2" 5="1" 6="0" 7="1" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Roel Santos CF" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raico Santos RF" vb="4" r="0" h="3" double="3" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Guillermo José D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo 1B" vb="5" r="2" h="3" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Darién García LF" vb="3" r="1" h="2" double="1" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Ariel Pestano C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alien Hechevarria (a),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainiel Lopez (b),D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Lázaro Blanco" inn="7.0" vb="28" h="8" c="4" cl="4" so="2" bb="2" sb="1"></player>
+   <player name="Carlos Santana" inn="2.0" vb="6" h="2" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="109"></voto>
+  <voto name="A favor de Mayabeque" valor="12"></voto>
+ </pronostico>
+</game>

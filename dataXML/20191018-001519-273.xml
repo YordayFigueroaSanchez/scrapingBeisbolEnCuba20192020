@@ -1,0 +1,46 @@
+<game fecha="2019-09-24T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="0" h="2" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanciel Ajete C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoandy Cruz" inn="6.1" vb="21" h="2" c="0" cl="0" so="3" bb="1" sb="0"></player>
+   <player name="Isbel Hernández" inn="1.0" vb="5" h="2" c="1" cl="1" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Cienfuegos" c="1" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="1"></runxining>
+  <batters>
+   <player name="Cesar Prieto SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Lazo D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edwin Vassel 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Rodríguez 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasmany Insua P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Javier (a),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasmany Insua" inn="8.0" vb="26" h="2" c="0" cl="0" so="5" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Cienfuegos" valor="64"></voto>
+  <voto name="A favor de Pinar del Rio" valor="46"></voto>
+ </pronostico>
+</game>

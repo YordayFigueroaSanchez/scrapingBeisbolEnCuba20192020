@@ -1,0 +1,65 @@
+<game fecha="2019-08-22T00:00:00-04:00" fase="clasificatoria">
+ <team name="Camaguey" c="7" h="13" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="4" 5="0" 6="0" 7="3" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Loidel Chapelli LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yosbel Pérez 3B" vb="5" r="1" h="4" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="4" r="2" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leslie Anderson D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yandy Yanes 2B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yendri Téllez C" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Leonel Moa CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lisander Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Luaces LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Vicyohandri Odelín P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erislery Basulto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yariel Rodríguez" inn="4.1" vb="21" h="8" c="6" cl="4" so="7" bb="4" sb="0"></player>
+   <player name="Lisander Hernández" inn="2.2" vb="9" h="3" c="0" cl="0" so="2" bb="1" sb="0"></player>
+   <player name="Vicyohandri Odelín" inn="0.2" vb="5" h="4" c="4" cl="4" so="0" bb="1" sb="0"></player>
+   <player name="Erislery Basulto" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="10" h="15" e="2">
+  <runxining 1="1" 2="0" 3="2" 4="0" 5="3" 6="0" 7="0" 8="4" 9=""></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="2" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Carlos Benítez 2B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="3" r="2" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Darién García LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="5" r="2" h="3" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="5" r="0" h="4" double="1" triple="0" hr="0" rbi="4" error="1"></player>
+   <player name="Ariel Pestano C" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González RF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leandro Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alien Hechevarria LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Castillo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Gonzalez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanquiel Sanchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainiel Lopez (a),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo José (b)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexquemer Sánchez (c),RF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Leandro Martínez" inn="3.1" vb="17" h="6" c="4" cl="0" so="2" bb="1" sb="1"></player>
+   <player name="Kelbis Rodríguez" inn="2.2" vb="12" h="6" c="3" cl="3" so="0" bb="0" sb="0"></player>
+   <player name="Yunier Castillo" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Luis Miguel Gonzalez" inn="1.2" vb="4" h="1" c="0" cl="0" so="0" bb="3" sb="0"></player>
+   <player name="Yanquiel Sanchez" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Carlos Santana" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="65"></voto>
+  <voto name="A favor de Camaguey" valor="54"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,53 @@
+<game fecha="2019-08-24T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="2" h="5" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="1" 8="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco LF,1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra D" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Zambrana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gian Moises Palacio P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank A. álvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra (1),SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis A. Silva P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasiel Zambrana" inn="2.1" vb="7" h="2" c="2" cl="2" so="0" bb="3" sb="0"></player>
+   <player name="Gian Moises Palacio" inn="0.0" vb="1" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Frank A. álvarez" inn="2.2" vb="8" h="2" c="2" cl="2" so="0" bb="3" sb="0"></player>
+   <player name="Luis A. Silva" inn="2.0" vb="8" h="3" c="2" cl="1" so="3" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="6" h="8" e="2">
+  <runxining 1="0" 2="0" 3="2" 4="2" 5="0" 6="1" 7="1" 8=""></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan Carlos Lopez 3B" vb="2" r="2" h="1" double="0" triple="0" hr="1" rbi="2" error="1"></player>
+   <player name="Yurién Vizcaino LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Raul Reyes CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ivailo Leiva D" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Roberto Acea 2B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Mirabal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Javier Mirabal" inn="6.2" vb="26" h="5" c="2" cl="2" so="6" bb="4" sb="1"></player>
+   <player name="Yasmani Hernández" inn="1.1" vb="4" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="56"></voto>
+  <voto name="A favor de Pinar del Rio" valor="55"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,51 @@
+<game fecha="2019-09-23T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santi Spiritus" c="0" h="8" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Dismani Ortiz LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rodoleisi Moreno 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Ibarra C" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Diosmeli Salabarria SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luis Braña P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daviel Gómez (1),SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Roberto Hernandez" inn="1.0" vb="2" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Jose Luis Braña" inn="5.0" vb="18" h="6" c="3" cl="3" so="1" bb="1" sb="1"></player>
+   <player name="Roberto Hernandez" inn="2.0" vb="9" h="3" c="1" cl="1" so="3" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="5" h="10" e="0">
+  <runxining 1="1" 2="0" 3="2" 4="0" 5="0" 6="1" 7="1" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Otoniel Gonzalez CF" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez D" vb="3" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Walter Orlando 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez 3B" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Raul Reyes RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Sarduy 2B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Roberto Acea SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Fredy Asiel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Alonso RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raidel Peraza (a),D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronny Valdés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Fredy Asiel Alvarez" inn="8.0" vb="29" h="7" c="0" cl="0" so="4" bb="1" sb="0"></player>
+   <player name="Ronny Valdés" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="40"></voto>
+  <voto name="A favor de Santi Spiritus" valor="74"></voto>
+ </pronostico>
+</game>

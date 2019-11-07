@@ -1,0 +1,54 @@
+<game fecha="2019-10-01T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="7" h="10" e="0">
+  <runxining 1="2" 2="5" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Dayron Blanco CF,RF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF,1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yordanis Samón D" vb="5" r="2" h="2" double="0" triple="0" hr="2" rbi="5" error="0"></player>
+   <player name="Stayler Hernández 1B" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Vladimir Baños P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén (1),CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Abel García Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo (2),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Vladimir Baños" inn="7.0" vb="27" h="7" c="1" cl="1" so="3" bb="2" sb="0"></player>
+   <player name="Eddy Abel García Del" inn="1.1" vb="6" h="2" c="2" cl="2" so="1" bb="0" sb="0"></player>
+   <player name="Andy Amaury" inn="0.2" vb="3" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="3" h="10" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón LF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Jonathan Carbo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Guilarte P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Valera C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laidel Andres Aguila (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jonathan Carbo" inn="1.2" vb="12" h="6" c="7" cl="2" so="2" bb="1" sb="0"></player>
+   <player name="Maikel Martínez" inn="6.1" vb="21" h="4" c="0" cl="0" so="3" bb="3" sb="0"></player>
+   <player name="Raul Guilarte" inn="1.0" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="60"></voto>
+  <voto name="A favor de Industriales" valor="55"></voto>
+ </pronostico>
+</game>

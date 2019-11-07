@@ -1,0 +1,59 @@
+<game fecha="2019-08-12T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="4" h="7" e="3">
+  <runxining 1="1" 2="0" 3="3" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="5" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="1"></player>
+   <player name="Ariel Sánchez LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yasiel Santoya 1B" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Vázquez RF" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Javier Camero D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Martínez SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jesus Daniel Olivera C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noelvis Entenza P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaniel Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ramón Licor P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reinier Rivero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Quesada P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Noelvis Entenza" inn="2.0" vb="11" h="5" c="3" cl="3" so="1" bb="1" sb="0"></player>
+   <player name="Yaniel Blanco" inn="4.0" vb="18" h="6" c="4" cl="4" so="1" bb="1" sb="0"></player>
+   <player name="Ramón Licor" inn="0.0" vb="0" h="0" c="1" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Reinier Rivero" inn="0.0" vb="2" h="2" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Andy Quesada" inn="2.0" vb="8" h="2" c="3" cl="2" so="2" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="13" h="15" e="1">
+  <runxining 1="0" 2="0" 3="3" 4="0" 5="0" 6="3" 7="5" 8="2" 9=""></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF,CF" vb="5" r="1" h="3" double="1" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Jhony Hardy CF,RF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="4" r="0" h="2" double="2" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Leonardo Urgellés D" vb="5" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón RF,1B" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="4" r="2" h="2" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Michel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovani Alejandro (a),LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Quintana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Luis Michel" inn="2.0" vb="13" h="6" c="4" cl="4" so="0" bb="1" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="6.0" vb="15" h="1" c="0" cl="0" so="2" bb="4" sb="1"></player>
+   <player name="Franklin Quintana" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="24"></voto>
+  <voto name="A favor de Matanzas" valor="60"></voto>
+ </pronostico>
+</game>

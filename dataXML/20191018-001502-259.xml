@@ -1,0 +1,57 @@
+<game fecha="2019-09-21T00:00:00-04:00" fase="clasificatoria">
+ <team name="Villa Clara" c="1" h="9" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0"></runxining>
+  <batters>
+   <player name="Otoniel Gonzalez CF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Duviel Zamora D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Reyes RF" vb="3" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandrys Canto 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yulexis La Rosa C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Sarduy 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Roberto Acea SS" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanny Delgado P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lazaro Javier P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio Enrique C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Cueto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose D. Ruíz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yanny Delgado" inn="0.1" vb="3" h="3" c="3" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Oscar Hernandez" inn="2.1" vb="11" h="4" c="3" cl="3" so="2" bb="5" sb="1"></player>
+   <player name="Lazaro Javier" inn="2.2" vb="8" h="3" c="2" cl="2" so="0" bb="3" sb="1"></player>
+   <player name="Randy Cueto" inn="0.1" vb="5" h="4" c="6" cl="0" so="0" bb="0" sb="1"></player>
+   <player name="Jose D. Ruíz" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="14" h="14" e="0">
+  <runxining 1="3" 2="1" 3="2" 4="0" 5="0" 6="8" 7=""></runxining>
+  <batters>
+   <player name="Loidel Chapelli LF" vb="4" r="3" h="3" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Humberto Bravo 2B" vb="2" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González CF,RF" vb="2" r="2" h="2" double="0" triple="0" hr="1" rbi="5" error="0"></player>
+   <player name="Alexander Ayala SS" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Leslie Anderson D" vb="1" r="1" h="1" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Cardosa RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Góngora De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandy Yanes (a),2B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jorge Alvarez C" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Luaces (b),CF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores (c),LF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ramón Roble P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dariel Góngora De La" inn="6.0" vb="24" h="8" c="1" cl="1" so="1" bb="1" sb="0"></player>
+   <player name="Ramón Roble" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="90"></voto>
+  <voto name="A favor de Villa Clara" valor="31"></voto>
+ </pronostico>
+</game>

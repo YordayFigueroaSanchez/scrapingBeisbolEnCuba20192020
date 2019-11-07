@@ -1,0 +1,44 @@
+<game fecha="2019-08-23T00:00:00-04:00" fase="clasificatoria">
+ <team name="Camaguey" c="4" h="9" e="0">
+  <runxining 1="1" 2="1" 3="2" 4="0" 5="0" 6="0"></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="2" r="1" h="1" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="2" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leslie Anderson D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Ayala SS" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis González RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leonel Moa CF" vb="2" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan S. Contreras P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Juan S. Contreras" inn="5.0" vb="18" h="3" c="2" cl="2" so="3" bb="0" sb="2"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="2" h="3" e="2">
+  <runxining 1="1" 2="0" 3="1" 4="0" 5="0" 6=""></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Carlos Benítez 2B" vb="2" r="2" h="2" double="0" triple="0" hr="2" rbi="2" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Miguel González RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="César García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Danilo Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="César García" inn="3.1" vb="13" h="6" c="4" cl="2" so="0" bb="3" sb="1"></player>
+   <player name="Juan Danilo Pérez" inn="1.2" vb="7" h="3" c="0" cl="0" so="3" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="57"></voto>
+  <voto name="A favor de Camaguey" valor="61"></voto>
+ </pronostico>
+</game>

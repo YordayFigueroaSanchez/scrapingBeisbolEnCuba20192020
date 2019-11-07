@@ -1,0 +1,63 @@
+<game fecha="2019-08-20T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="10" h="16" e="0">
+  <runxining 1="1" 2="0" 3="2" 4="0" 5="1" 6="2" 7="0" 8="3" 9="1"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Sánchez D" vb="4" r="1" h="2" double="2" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Juan Miguel Vázquez LF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Willian Luis RF" vb="3" r="3" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Martínez SS" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Arencibia C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="David Mena P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Duque (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="3" r="0" h="3" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Romney Muñiz (2),1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Armando Dueñas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaniel Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoisnel Camejo LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="David Mena" inn="3.1" vb="11" h="3" c="2" cl="2" so="0" bb="3" sb="0"></player>
+   <player name="Armando Dueñas" inn="2.2" vb="12" h="6" c="1" cl="1" so="3" bb="3" sb="0"></player>
+   <player name="Yaniel Blanco" inn="3.0" vb="12" h="4" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="3" h="13" e="1">
+  <runxining 1="0" 2="1" 3="0" 4="1" 5="0" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo LF" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González RF" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Michael González 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rangel Ramos SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lázaro Martínez D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Norbelis P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Pedroso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan C. Hernández (a),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyler Gracial P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="David Avila P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Norbelis" inn="4.0" vb="19" h="8" c="3" cl="3" so="2" bb="2" sb="1"></player>
+   <player name="Javier Pedroso" inn="0.2" vb="2" h="2" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Mailon Cruz" inn="1.1" vb="7" h="3" c="2" cl="2" so="1" bb="3" sb="0"></player>
+   <player name="Geyler Gracial" inn="1.0" vb="4" h="1" c="2" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="0.1" vb="2" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="David Avila" inn="1.2" vb="6" h="1" c="1" cl="1" so="0" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="15"></voto>
+  <voto name="A favor de Matanzas" valor="85"></voto>
+ </pronostico>
+</game>

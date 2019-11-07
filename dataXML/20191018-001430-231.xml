@@ -1,0 +1,61 @@
+<game fecha="2019-09-17T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="2" h="6" e="0">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Emilio Blanco D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanciel Ajete C" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Torres P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinaldo Lazaga (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank A. álvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gian Moises Palacio P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosvani Torres" inn="5.1" vb="22" h="7" c="5" cl="5" so="4" bb="2" sb="0"></player>
+   <player name="Yoandy Cruz" inn="1.0" vb="6" h="4" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Frank A. álvarez" inn="1.0" vb="4" h="2" c="3" cl="3" so="0" bb="1" sb="0"></player>
+   <player name="Gian Moises Palacio" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Industriales" c="8" h="13" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="3" 6="2" 7="0" 8="3" 9=""></runxining>
+  <batters>
+   <player name="Stayler Hernández 1B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisbán Correa D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Oscar Valdés C" vb="4" r="2" h="3" double="1" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yamil Rivalta SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dayron Blanco CF,LF" vb="4" r="2" h="3" double="0" triple="0" hr="2" rbi="5" error="0"></player>
+   <player name="Pavel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erick Cristhian P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Abel García Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén (a),CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo (b)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pavel Hernández" inn="2.1" vb="9" h="4" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Erick Cristhian" inn="2.2" vb="6" h="0" c="0" cl="0" so="1" bb="3" sb="0"></player>
+   <player name="Eddy Abel García Del" inn="2.0" vb="7" h="1" c="0" cl="0" so="3" bb="0" sb="0"></player>
+   <player name="Andy Amaury" inn="2.0" vb="7" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Industriales" valor="76"></voto>
+  <voto name="A favor de Pinar del Rio" valor="39"></voto>
+ </pronostico>
+</game>

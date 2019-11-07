@@ -1,0 +1,57 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="2" h="8" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="2"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dennis Ala 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reynaldo Lamothe LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Reyna C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Marlon Serrano 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Danny Betancourt P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Carlos Barbosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Guzmán (1)" vb="1" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Colas (2)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Danny Betancourt" inn="5.0" vb="21" h="7" c="3" cl="3" so="2" bb="3" sb="0"></player>
+   <player name="Yoandri Montero" inn="0.1" vb="6" h="5" c="5" cl="4" so="0" bb="0" sb="0"></player>
+   <player name="Jose Carlos Barbosa" inn="0.2" vb="4" h="2" c="1" cl="1" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Holguin" c="9" h="14" e="0">
+  <runxining 1="0" 2="3" 3="0" 4="0" 5="0" 6="6" 7=""></runxining>
+  <batters>
+   <player name="Maikel Caceres D" vb="4" r="0" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordan Manduley SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto 1B" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar RF,LF" vb="3" r="2" h="2" double="0" triple="0" hr="2" rbi="6" error="0"></player>
+   <player name="Maracle Rubén Oriz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laindel Efrén Leyva (a),SS" vb="1" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Aníbal Vaillant (b),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López (c),RF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osday Silva 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoidel Castañeda P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Elexis Valera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Maracle Rubén Oriz" inn="6.1" vb="24" h="7" c="2" cl="2" so="3" bb="1" sb="0"></player>
+   <player name="Yoidel Castañeda" inn="0.0" vb="1" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Elexis Valera" inn="0.2" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Holguin" valor="21"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="101"></voto>
+ </pronostico>
+</game>

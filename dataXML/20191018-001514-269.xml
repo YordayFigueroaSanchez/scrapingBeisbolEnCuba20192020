@@ -1,0 +1,54 @@
+<game fecha="2019-09-24T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="5" h="17" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="1" 6="1" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Reinier León CF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco D" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="William Saavedra 1B" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Irandi Hernández LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="5" r="2" h="4" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Erlis Casanova P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Torres P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinaldo Lazaga LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Erlis Casanova" inn="3.0" vb="11" h="3" c="1" cl="1" so="2" bb="3" sb="0"></player>
+   <player name="Yosvani Torres" inn="6.0" vb="21" h="4" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Cienfuegos" c="1" h="7" e="0">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B,SS" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edwin Vassel D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Oramas SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Damián P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alex Daniel Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José A. Ozuna P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Rodríguez (a),2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abel Campos P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Lazo (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Damián" inn="3.1" vb="15" h="6" c="1" cl="1" so="5" bb="1" sb="0"></player>
+   <player name="Alex Daniel Perez" inn="2.1" vb="11" h="5" c="2" cl="2" so="0" bb="0" sb="1"></player>
+   <player name="José A. Ozuna" inn="2.1" vb="12" h="5" c="2" cl="2" so="2" bb="1" sb="0"></player>
+   <player name="Abel Campos" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Cienfuegos" valor="71"></voto>
+  <voto name="A favor de Pinar del Rio" valor="41"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,53 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Camaguey" c="7" h="10" e="0">
+  <runxining 1="0" 2="4" 3="1" 4="0" 5="0" 6="2" 7="0"></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Ayala SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="3" r="2" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Smith D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Leonel Moa CF" vb="2" r="1" h="2" double="2" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Juan S. Contreras P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos L. Espinosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Alfredo Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Vicyohandri Odelín P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Juan S. Contreras" inn="3.0" vb="12" h="3" c="3" cl="3" so="1" bb="2" sb="2"></player>
+   <player name="Carlos L. Espinosa" inn="1.0" vb="5" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Carlos Alfredo Pérez" inn="1.2" vb="6" h="2" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Vicyohandri Odelín" inn="1.1" vb="4" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Matanzas" c="3" h="7" e="0">
+  <runxining 1="0" 2="1" 3="0" 4="2" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Sánchez LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan Miguel Vázquez RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Camero D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Martínez SS" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jesus Daniel Olivera C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Noelvis Entenza P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Duque (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Haykel Parra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Noelvis Entenza" inn="6.0" vb="27" h="10" c="7" cl="7" so="3" bb="4" sb="1"></player>
+   <player name="Haykel Parra" inn="1.0" vb="3" h="0" c="0" cl="0" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Matanzas" valor="57"></voto>
+  <voto name="A favor de Camaguey" valor="38"></voto>
+ </pronostico>
+</game>

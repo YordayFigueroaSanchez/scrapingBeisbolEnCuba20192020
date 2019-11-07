@@ -1,0 +1,50 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="4" h="10" e="0">
+  <runxining 1="1" 2="0" 3="3" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Jose Ramon Alfonso 2B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Vázquez C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martín 1B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jonathan Lazaro D" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Enrique CF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dachel Duquesne P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Jiménez LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaismel Bravo 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dachel Duquesne" inn="7.0" vb="24" h="5" c="0" cl="0" so="2" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="0" h="5" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Jhony Hardy CF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Jorge Enrique Del C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Gamboa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Guilarte P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erasmo Millán P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yunier Gamboa" inn="2.0" vb="11" h="5" c="4" cl="3" so="2" bb="3" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="0.1" vb="4" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Raul Guilarte" inn="4.0" vb="13" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Erasmo Millán" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="25"></voto>
+  <voto name="A favor de Ciego de Avila" valor="70"></voto>
+ </pronostico>
+</game>

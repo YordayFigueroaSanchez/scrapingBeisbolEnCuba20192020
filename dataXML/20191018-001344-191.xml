@@ -1,0 +1,47 @@
+<game fecha="2019-09-11T00:00:00-04:00" fase="clasificatoria">
+ <team name="Las Tunas" c="4" h="14" e="1">
+  <runxining 1="0" 2="0" 3="2" 4="2" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Andrés Quiala RF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Danel Castro D" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Denis Peña 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz 2B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ernesto Felipe SS" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo LF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudier Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo (1),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Alarcón P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yudier Rodríguez" inn="7.0" vb="29" h="11" c="1" cl="1" so="5" bb="3" sb="0"></player>
+   <player name="Yosbel Alarcón" inn="2.0" vb="8" h="3" c="1" cl="1" so="0" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="2" h="14" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Moises Esquerrez SS" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yansel Reyes 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayán García 2B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Andy Cosme C" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="5" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno CF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansue More 1B" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Reinier Ramos RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Misael Villa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Luis Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Misael Villa" inn="8.1" vb="37" h="14" c="4" cl="4" so="2" bb="0" sb="0"></player>
+   <player name="Andy Luis Perez" inn="0.2" vb="1" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="14"></voto>
+  <voto name="A favor de Las Tunas" valor="108"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,57 @@
+<game fecha="2019-09-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="4" h="10" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="2" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="5" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoelkis Guibert CF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La D" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Llanes C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Colas LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Bicet P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon Serrano (1),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leosdanis Molina (2),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Alberto Bicet" inn="8.0" vb="32" h="10" c="1" cl="0" so="7" bb="4" sb="0"></player>
+   <player name="Yunior Tur" inn="1.0" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="1" h="10" e="3">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Victor Gonzalez 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayán García D" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronmy Proenza LF,1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Andy Cosme C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno CF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Ramos RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansue More 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Misael Villa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lian Camilo (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erick Candano (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Dayán Pérez (c),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José C. Padrón (d)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Luis Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Paez 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Ayarde LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dairon Alpizar P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Misael Villa" inn="8.0" vb="31" h="8" c="2" cl="1" so="2" bb="0" sb="0"></player>
+   <player name="Andy Luis Perez" inn="0.2" vb="3" h="2" c="2" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Dairon Alpizar" inn="0.1" vb="2" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="18"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="89"></voto>
+ </pronostico>
+</game>

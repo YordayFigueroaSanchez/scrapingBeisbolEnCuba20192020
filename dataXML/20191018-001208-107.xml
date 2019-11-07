@@ -1,0 +1,60 @@
+<game fecha="2019-08-27T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="8" h="12" e="1">
+  <runxining 1="0" 2="0" 3="3" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0" 10="3" 11="2"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="5" r="2" h="4" double="1" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Almeida 1B" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Marnolki Aguiar RF" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan 2B" vb="5" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio David Góngora SS" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yusmel Velázquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilson Paredes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yuniel Suárez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Aníbal Vaillant (2)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rafael Sanchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yusmel Velázquez" inn="4.0" vb="17" h="6" c="2" cl="2" so="2" bb="2" sb="0"></player>
+   <player name="Wilson Paredes" inn="2.2" vb="9" h="1" c="1" cl="1" so="2" bb="4" sb="0"></player>
+   <player name="Yuniel Suárez" inn="3.1" vb="11" h="2" c="3" cl="1" so="3" bb="0" sb="0"></player>
+   <player name="Rafael Sanchez" inn="0.1" vb="2" h="1" c="3" cl="1" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="9" h="10" e="2">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="1" 6="1" 7="0" 8="0" 9="0" 10="3" 11="3"></runxining>
+  <batters>
+   <player name="Dainiel Lopez CF" vb="3" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Osvaldo Abreu 3B" vb="6" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="6" r="2" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Guillermo José D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Darién García LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Guillermo Garcia 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Hubert Sánchez C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leandro Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo 1B" vb="3" r="2" h="2" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Erluis Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma (c),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alien Hechevarria (d)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Leandro Martínez" inn="6.1" vb="28" h="10" c="3" cl="3" so="4" bb="0" sb="0"></player>
+   <player name="Erluis Blanco" inn="4.2" vb="15" h="2" c="5" cl="0" so="4" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="86"></voto>
+  <voto name="A favor de Holguin" valor="26"></voto>
+ </pronostico>
+</game>

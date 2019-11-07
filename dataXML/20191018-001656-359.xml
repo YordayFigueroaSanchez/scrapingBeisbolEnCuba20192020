@@ -1,0 +1,62 @@
+<game fecha="2019-10-11T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="7" h="10" e="1">
+  <runxining 1="0" 2="1" 3="2" 4="0" 5="2" 6="0" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Dayron Blanco CF,RF,LF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF,1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="3" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Samón D" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Stayler Hernández 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yamil Rivalta SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Ortega Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén CF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Eddy Abel García Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo RF" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pavel Hernández" inn="0.2" vb="2" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Marcos Ortega Del" inn="2.2" vb="13" h="5" c="3" cl="3" so="1" bb="2" sb="0"></player>
+   <player name="Eddy Abel García Del" inn="3.2" vb="14" h="4" c="0" cl="0" so="0" bb="3" sb="0"></player>
+   <player name="Andy Amaury" inn="2.0" vb="7" h="3" c="2" cl="2" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="5" h="12" e="2">
+  <runxining 1="0" 2="0" 3="1" 4="2" 5="0" 6="0" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez D" vb="5" r="2" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandrys Canto 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Sarduy 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="1" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Otoniel Gonzalez CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Fredy Asiel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Alonso (a),RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lazaro Javier P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Julio Enrique C" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Lopez 1B,3B" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Duviel Zamora 2B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Pedro Manuel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ivailo Leiva (b),1B" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Orcar Luis Aveille P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Fredy Asiel Alvarez" inn="1.0" vb="3" h="0" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Lazaro Javier" inn="3.2" vb="18" h="7" c="5" cl="4" so="0" bb="3" sb="0"></player>
+   <player name="Pedro Manuel" inn="3.1" vb="9" h="1" c="0" cl="0" so="2" bb="1" sb="1"></player>
+   <player name="Orcar Luis Aveille" inn="1.0" vb="3" h="2" c="2" cl="2" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="50"></voto>
+  <voto name="A favor de Industriales" valor="70"></voto>
+ </pronostico>
+</game>

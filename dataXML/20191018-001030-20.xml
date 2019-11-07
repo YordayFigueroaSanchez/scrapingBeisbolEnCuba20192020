@@ -1,0 +1,62 @@
+<game fecha="2019-08-12T00:00:00-04:00" fase="clasificatoria">
+ <team name="Camaguey" c="9" h="17" e="0">
+  <runxining 1="3" 2="2" 3="1" 4="0" 5="0" 6="0" 7="2" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="5" r="2" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marino Luis 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Ayala SS" vb="4" r="2" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="3" r="1" h="1" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="Luis González RF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Smith D" vb="5" r="2" h="2" double="1" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yendri Téllez C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="5" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Frank Madan P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eglis Eugellés 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores (1),LF" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roger Trench P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erislery Basulto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Madan" inn="7.0" vb="27" h="6" c="2" cl="2" so="3" bb="0" sb="0"></player>
+   <player name="Roger Trench" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Erislery Basulto" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="2" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="1" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Alexander Pozo D" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Norbelis P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulian Quintana La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Pedroso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Corvo (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan C. Hernández (b),1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez (c),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="David Avila P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Norbelis" inn="1.1" vb="10" h="6" c="5" cl="5" so="0" bb="1" sb="0"></player>
+   <player name="Mailon Cruz" inn="4.1" vb="17" h="7" c="1" cl="1" so="1" bb="1" sb="0"></player>
+   <player name="Yulian Quintana La" inn="1.0" vb="6" h="2" c="2" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Javier Pedroso" inn="1.1" vb="5" h="1" c="1" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="David Avila" inn="1.0" vb="3" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="22"></voto>
+  <voto name="A favor de Camaguey" valor="64"></voto>
+ </pronostico>
+</game>

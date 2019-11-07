@@ -1,0 +1,57 @@
+<game fecha="2019-09-01T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="0" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo RF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Carabeo D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yadián Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="David Avila P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez (1),D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote (2),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan C. Hernández 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yadián Martínez" inn="2.2" vb="15" h="8" c="10" cl="10" so="1" bb="3" sb="1"></player>
+   <player name="David Avila" inn="2.1" vb="8" h="2" c="1" cl="1" so="1" bb="2" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="1.0" vb="3" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="11" h="11" e="0">
+  <runxining 1="4" 2="0" 3="6" 4="0" 5="1" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="2" r="2" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ricardo Ramos La 1B" vb="4" r="1" h="3" double="2" triple="0" hr="0" rbi="4" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La LF" vb="3" r="2" h="2" double="2" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon Serrano D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Llanes C" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leosdanis Molina SS" vb="2" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ulfrido García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmedi Garcia P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez (a),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reynaldo A. Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Ulfrido García" inn="5.0" vb="16" h="2" c="0" cl="0" so="4" bb="4" sb="0"></player>
+   <player name="Osmedi Garcia" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Reynaldo A. Alvarez" inn="1.0" vb="4" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="94"></voto>
+  <voto name="A favor de Mayabeque" valor="19"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,58 @@
+<game fecha="2019-08-27T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="6" h="11" e="0">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="0" 6="1" 7="1" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="2" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Sánchez D" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Vázquez RF,LF" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Javier Camero LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="5" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Andrys Perez C" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noelvis Entenza P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaniel Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoisnel Camejo (1),LF,RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Noelvis Entenza" inn="5.1" vb="22" h="7" c="2" cl="1" so="6" bb="4" sb="1"></player>
+   <player name="Yaniel Blanco" inn="3.2" vb="13" h="3" c="1" cl="1" so="1" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Ciego de Avila" c="3" h="10" e="1">
+  <runxining 1="0" 2="1" 3="0" 4="0" 5="0" 6="1" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Ariel Enrique CF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaismel Bravo LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul González 3B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alfredo Fadraga C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martín D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Morales 1B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rubén Valdés 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro SS,2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yairon Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Ramon Alfonso (a),2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Castellanos (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Cardenas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Jiménez LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Fernando Betanzo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelvis Fiss (c)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronaldo Castillo SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorlian Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Alberto Marrero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yairon Martínez" inn="6.0" vb="24" h="8" c="3" cl="3" so="1" bb="2" sb="1"></player>
+   <player name="Osvaldo Cardenas" inn="0.2" vb="3" h="1" c="1" cl="1" so="0" bb="2" sb="1"></player>
+   <player name="Fernando Betanzo" inn="0.2" vb="3" h="1" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Yorlian Rodríguez" inn="0.1" vb="2" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Luis Alberto Marrero" inn="1.1" vb="4" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Ciego de Avila" valor="66"></voto>
+  <voto name="A favor de Matanzas" valor="43"></voto>
+ </pronostico>
+</game>

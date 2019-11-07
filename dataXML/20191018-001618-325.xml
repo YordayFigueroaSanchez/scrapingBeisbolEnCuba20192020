@@ -1,0 +1,52 @@
+<game fecha="2019-10-03T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="6" h="9" e="1">
+  <runxining 1="0" 2="4" 3="0" 4="1" 5="0" 6="0" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Dayron Blanco CF,LF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="5" r="2" h="4" double="2" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Yordanis Samón D" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Stayler Hernández 1B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Oscar Valdés C" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="1" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Ortega Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Marcos Ortega Del" inn="6.2" vb="22" h="5" c="2" cl="2" so="4" bb="6" sb="0"></player>
+   <player name="Andy Amaury" inn="2.1" vb="7" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="2" h="6" e="1">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jhony Hardy CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alberto Calderón 1B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Laidel Andres Aguila 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Gamboa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez (a),2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez (b),SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Guilarte P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luís Bring (c)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yunier Gamboa" inn="1.2" vb="8" h="3" c="4" cl="4" so="1" bb="4" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="6.1" vb="23" h="6" c="2" cl="2" so="2" bb="3" sb="0"></player>
+   <player name="Raul Guilarte" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="46"></voto>
+  <voto name="A favor de Industriales" valor="62"></voto>
+ </pronostico>
+</game>

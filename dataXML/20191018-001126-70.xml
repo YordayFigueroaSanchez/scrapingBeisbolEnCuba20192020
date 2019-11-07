@@ -1,0 +1,55 @@
+<game fecha="2019-08-21T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="5" h="9" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="2" 5="1" 6="0" 7="1" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 1B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="4" r="3" h="2" double="0" triple="0" hr="2" rbi="2" error="0"></player>
+   <player name="Lerys Aguilera D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar 3B" vb="5" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Noel González 2B" vb="5" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Oscar Julián López RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio David Góngora SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos A. P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilson Paredes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos A." inn="6.0" vb="23" h="6" c="3" cl="3" so="2" bb="1" sb="0"></player>
+   <player name="Wilson Paredes" inn="2.0" vb="9" h="3" c="4" cl="4" so="2" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="7" h="9" e="3">
+  <runxining 1="0" 2="1" 3="0" 4="0" 5="0" 6="2" 7="0" 8="4" 9=""></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yosbel Pérez 3B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="2"></player>
+   <player name="Leslie Anderson D" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis González RF" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Yendri Téllez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Madan P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos L. Espinosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Alfredo Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Smith (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Alvarez (b),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eglis Eugellés (c),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Vicyohandri Odelín P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Madan" inn="3.0" vb="15" h="4" c="2" cl="1" so="2" bb="1" sb="0"></player>
+   <player name="Carlos L. Espinosa" inn="3.1" vb="12" h="2" c="2" cl="2" so="3" bb="2" sb="0"></player>
+   <player name="Carlos Alfredo Pérez" inn="1.2" vb="7" h="2" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Vicyohandri Odelín" inn="1.0" vb="4" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="65"></voto>
+  <voto name="A favor de Holguin" valor="41"></voto>
+ </pronostico>
+</game>

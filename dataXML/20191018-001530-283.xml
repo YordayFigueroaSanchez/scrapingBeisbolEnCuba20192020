@@ -1,0 +1,58 @@
+<game fecha="2019-09-25T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="0" h="5" e="3">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Guillermo Gomez CF,LF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonelkis Escalante RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Preval 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Velazquez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Carlos Figueredo SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reidel Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio C. Preval P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raciel Bles P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daykel Manso Del 1B" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoenni Turcás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lionis Delgado 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon CF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Félix Carbonell (1),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lander Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Reidel Moreira" inn="3.0" vb="11" h="3" c="3" cl="2" so="1" bb="2" sb="1"></player>
+   <player name="Julio C. Preval" inn="0.2" vb="5" h="3" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Raciel Bles" inn="0.1" vb="2" h="1" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Yoenni Turcás" inn="2.0" vb="10" h="4" c="4" cl="0" so="0" bb="2" sb="0"></player>
+   <player name="Lander Moreira" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Ciego de Avila" c="10" h="12" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="3" 5="2" 6="0" 7="4"></runxining>
+  <batters>
+   <player name="Jose Ramon Alfonso RF,CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorbis Borroto SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Raul González 3B" vb="5" r="0" h="3" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yoelvis Fiss CF" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro 1B" vb="3" r="3" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yudiel González LF" vb="4" r="2" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Abdel Civil D" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martín C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rubén Valdés 2B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yairon Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro (a),2B" vb="2" r="3" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Jiménez RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Liosvany Perez (b)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yairon Martínez" inn="7.0" vb="23" h="5" c="0" cl="0" so="2" bb="1" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Ciego de Avila" valor="104"></voto>
+  <voto name="A favor de Guantanamo" valor="9"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,52 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="2" h="5" e="0">
+  <runxining 1="1" 2="1" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Alexander Jiménez LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yorbis Borroto SS" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul González 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoelvis Fiss CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Morales 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alfredo Fadraga C" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yairon Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leomil González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorlian Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Ramon Alfonso CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Cardenas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yairon Martínez" inn="5.0" vb="20" h="5" c="5" cl="5" so="2" bb="1" sb="0"></player>
+   <player name="Leomil González" inn="0.2" vb="4" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Yorlian Rodríguez" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Osvaldo Cardenas" inn="1.1" vb="4" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="5" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="2" 6="3" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Roel Santos CF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raico Santos RF,LF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Ariel Pestano C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="César García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="César García" inn="6.0" vb="22" h="5" c="2" cl="2" so="4" bb="1" sb="1"></player>
+   <player name="Kelbis Rodríguez" inn="3.0" vb="8" h="0" c="0" cl="0" so="3" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="81"></voto>
+  <voto name="A favor de Ciego de Avila" valor="28"></voto>
+ </pronostico>
+</game>

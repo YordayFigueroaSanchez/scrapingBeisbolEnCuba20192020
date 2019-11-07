@@ -1,0 +1,47 @@
+<game fecha="2019-10-08T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="13" h="13" e="0">
+  <runxining 1="0" 2="4" 3="0" 4="0" 5="2" 6="0" 7="7"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="5" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="5" r="2" h="2" double="1" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Bárbaro Rodríguez D" vb="3" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="3" r="2" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Enrique CF" vb="4" r="2" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasmany Insua P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasmany Insua" inn="7.0" vb="28" h="9" c="1" cl="1" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="1" h="9" e="3">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez 3B" vb="3" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yeniet Pérez D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Duviel Zamora 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Daniel Lopez 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Heriberto C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Otoniel Gonzalez CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raidel Peraza RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose D. Ruíz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Cueto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Oscar Hernandez" inn="5.0" vb="24" h="8" c="6" cl="4" so="3" bb="1" sb="0"></player>
+   <player name="Jose D. Ruíz" inn="1.1" vb="7" h="3" c="6" cl="5" so="0" bb="3" sb="0"></player>
+   <player name="Randy Cueto" inn="0.2" vb="5" h="2" c="1" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="37"></voto>
+  <voto name="A favor de Cienfuegos" valor="76"></voto>
+ </pronostico>
+</game>

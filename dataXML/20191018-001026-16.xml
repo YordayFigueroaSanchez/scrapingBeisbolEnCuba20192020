@@ -1,0 +1,58 @@
+<game fecha="2019-08-11T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="0" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Orlando Morales De SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoilán Cercé 2B" vb="4" r="0" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonelkis Escalante CF,RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daykel Manso Del 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Sánchez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Revilla D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dairon Mena P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoenni Turcás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lander Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Figueredo (1)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook (2),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dairon Mena" inn="4.0" vb="13" h="3" c="1" cl="0" so="2" bb="3" sb="1"></player>
+   <player name="Yoenni Turcás" inn="2.1" vb="9" h="4" c="3" cl="3" so="1" bb="3" sb="0"></player>
+   <player name="Lander Moreira" inn="0.0" vb="2" h="2" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Orlandis Martínez" inn="1.2" vb="5" h="0" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="5" h="9" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="0" 7="4" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Edilse Silva La LF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dasiel Sevila D" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosdani Carrión CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Betancourt P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Font P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Danny Betancourt" inn="6.0" vb="19" h="3" c="0" cl="0" so="3" bb="1" sb="1"></player>
+   <player name="Yoandri Montero" inn="1.0" vb="5" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Carlos Font" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="0" sb="1"></player>
+   <player name="Yunior Tur" inn="1.0" vb="4" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="65"></voto>
+  <voto name="A favor de Guantanamo" valor="9"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,54 @@
+<game fecha="2019-09-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="8" h="11" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="4" 5="0" 6="0" 7="2" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="5" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="5" r="1" h="4" double="2" triple="2" hr="0" rbi="3" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="4" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La D" vb="3" r="2" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alexander Llanes C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Daniel Colas LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Carlos Font P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adrian Ramirez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orrelly Ribeaux C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Font" inn="8.0" vb="25" h="3" c="2" cl="2" so="5" bb="5" sb="1"></player>
+   <player name="Adrian Ramirez" inn="0.0" vb="2" h="2" c="1" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yoandri Montero" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="3" h="5" e="0">
+  <runxining 1="1" 2="0" 3="1" 4="0" 5="0" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Duviel Zamora D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yeniet Pérez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Reyes CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandrys Canto 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Mirabal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Manuel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raidel Peraza (a)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acea (b)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez (c)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ivailo Leiva (d)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Javier Mirabal" inn="3.2" vb="14" h="4" c="4" cl="4" so="3" bb="4" sb="1"></player>
+   <player name="Pedro Manuel" inn="5.1" vb="20" h="7" c="4" cl="4" so="5" bb="1" sb="3"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="47"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="63"></voto>
+ </pronostico>
+</game>

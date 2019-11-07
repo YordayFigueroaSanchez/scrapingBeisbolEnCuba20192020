@@ -1,0 +1,55 @@
+<game fecha="2019-08-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="1" h="5" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Lerys Aguilera D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noel González 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López RF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio David Góngora SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maracle Rubén Oriz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Enmanuel Chapman P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan (1),2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Enrique Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel A. Cabrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Maracle Rubén Oriz" inn="4.2" vb="19" h="5" c="3" cl="3" so="1" bb="1" sb="0"></player>
+   <player name="Enmanuel Chapman" inn="2.0" vb="7" h="3" c="1" cl="1" so="2" bb="2" sb="0"></player>
+   <player name="Juan Enrique Perez" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Michel A. Cabrera" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="4" h="8" e="0">
+  <runxining 1="0" 2="2" 3="1" 4="0" 5="0" 6="0" 7="1" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Smith D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Leonel Moa CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandy Yanes SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosimar Cousin De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosimar Cousin De La" inn="7.0" vb="25" h="4" c="1" cl="1" so="9" bb="1" sb="0"></player>
+   <player name="Yariel Rodríguez" inn="2.0" vb="7" h="1" c="0" cl="0" so="5" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="58"></voto>
+  <voto name="A favor de Holguin" valor="48"></voto>
+ </pronostico>
+</game>

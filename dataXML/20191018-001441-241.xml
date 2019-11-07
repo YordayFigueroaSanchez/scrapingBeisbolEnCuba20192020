@@ -1,0 +1,50 @@
+<game fecha="2019-09-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="7" h="15" e="0">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="5" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="3" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="5" r="1" h="4" double="0" triple="0" hr="0" rbi="4" error="0"></player>
+   <player name="Yusniel Lazo D" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Edwin Vassel 1B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez CF,1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasmany Insua P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leorisbel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasmany Insua" inn="5.0" vb="19" h="5" c="1" cl="1" so="1" bb="3" sb="1"></player>
+   <player name="Leorisbel Sánchez" inn="4.0" vb="15" h="3" c="0" cl="0" so="2" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Ciego de Avila" c="1" h="8" e="2">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Yaismel Bravo LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yorbis Borroto SS" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul González 2B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoelvis Fiss CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Morales 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro D" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alfredo Fadraga C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 3B" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yander Guevara P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorlian Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Cardenas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González (a),LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yander Guevara" inn="5.0" vb="24" h="11" c="7" cl="5" so="1" bb="2" sb="0"></player>
+   <player name="Yorlian Rodríguez" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Osvaldo Cardenas" inn="3.1" vb="11" h="3" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Ciego de Avila" valor="59"></voto>
+  <voto name="A favor de Cienfuegos" valor="44"></voto>
+ </pronostico>
+</game>

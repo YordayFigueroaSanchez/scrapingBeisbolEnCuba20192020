@@ -1,0 +1,59 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="8" h="11" e="1">
+  <runxining 1="4" 2="2" 3="0" 4="0" 5="1" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="4" r="2" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González 2B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Darién García LF" vb="3" r="2" h="3" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Agustín Arias 1B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="5" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Hubert Sánchez C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leandro Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanquiel Sanchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainiel Lopez (1),LF" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Leandro Martínez" inn="5.0" vb="22" h="7" c="2" cl="2" so="2" bb="2" sb="0"></player>
+   <player name="Yanquiel Sanchez" inn="1.2" vb="6" h="2" c="2" cl="2" so="1" bb="3" sb="0"></player>
+   <player name="Carlos Santana" inn="2.1" vb="10" h="3" c="2" cl="2" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Industriales" c="6" h="12" e="3">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="2" 7="2" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Dayron Blanco LF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisbán Correa 1B" vb="5" r="3" h="4" double="0" triple="0" hr="1" rbi="2" error="1"></player>
+   <player name="Wilfredo Yasel 2B,SS" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="1" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Frank Camilo Morejon C" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoasán Guillén CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandi Molina P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Elder Nodal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo (a),SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adrián Rajiv Sosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Armando Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmel Cordero (b)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Nalber Yadan Cruz (c),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés (d),2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yandi Molina" inn="0.1" vb="4" h="3" c="4" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Elder Nodal" inn="3.0" vb="13" h="3" c="2" cl="0" so="2" bb="0" sb="1"></player>
+   <player name="Adrián Rajiv Sosa" inn="1.2" vb="8" h="2" c="1" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="José Armando Pérez" inn="4.0" vb="14" h="3" c="1" cl="1" so="5" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Industriales" valor="61"></voto>
+  <voto name="A favor de Granma" valor="39"></voto>
+ </pronostico>
+</game>

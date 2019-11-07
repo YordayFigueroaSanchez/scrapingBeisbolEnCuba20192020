@@ -1,0 +1,55 @@
+<game fecha="2019-09-08T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="1" h="5" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF,RF" vb="8" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoilán Cercé 2B,2B" vb="8" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Over Cremet D,D" vb="6" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C,C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook 1B,1B" vb="6" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 3B,3B" vb="6" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon LF,LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF,CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Figueredo SS,SS" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Pedro Enrique Aguero P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Enyer Fernandez P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado 1B,1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Revilla (2),(2)" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pedro Enrique Aguero" inn="5.1" vb="24" h="12" c="4" cl="4" so="0" bb="2" sb="0"></player>
+   <player name="Orlandis Martínez" inn="0.0" vb="2" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Enyer Fernandez" inn="5.1" vb="20" h="2" c="2" cl="2" so="2" bb="2" sb="0"></player>
+   <player name="Luis Enrique" inn="1.1" vb="10" h="6" c="4" cl="4" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="5" h="11" e="1">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="0" 6="3" 7=""></runxining>
+  <batters>
+   <player name="Juan Carlos SS,SS" vb="6" r="4" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Reinier León CF,CF" vb="8" r="4" h="4" double="0" triple="0" hr="2" rbi="4" error="0"></player>
+   <player name="Lázaro Emilio Blanco RF,RF" vb="4" r="0" h="4" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="William Saavedra D,D" vb="8" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B,3B" vb="6" r="0" h="4" double="2" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Irandi Hernández LF,LF" vb="6" r="0" h="4" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B,1B" vb="6" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Jorge Y. Rojas C,C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B,2B" vb="6" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaifredo Domínguez P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reilandy González P,P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C,C" vb="2" r="2" h="2" double="2" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra SS,SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovannys Hernandez LF,LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yaifredo Domínguez" inn="10.0" vb="38" h="10" c="2" cl="2" so="2" bb="6" sb="0"></player>
+   <player name="Reilandy González" inn="4.0" vb="14" h="0" c="0" cl="0" so="6" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="120"></voto>
+  <voto name="A favor de Guantanamo" valor="10"></voto>
+ </pronostico>
+</game>

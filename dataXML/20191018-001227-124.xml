@@ -1,0 +1,60 @@
+<game fecha="2019-08-30T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="1" h="5" e="3">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B,SS" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Dariel Oliva LF" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo RF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Carabeo C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Orlando Lavandera CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lázaro Martínez D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosvel Nápoles P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez (1),2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulian Quintana La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández (2),D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Diosvel Nápoles" inn="3.2" vb="13" h="3" c="2" cl="2" so="1" bb="5" sb="0"></player>
+   <player name="Carlos Pérez" inn="2.1" vb="9" h="3" c="1" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Mario Batista" inn="1.0" vb="6" h="3" c="3" cl="3" so="0" bb="1" sb="0"></player>
+   <player name="Yulian Quintana La" inn="0.1" vb="4" h="3" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="0.2" vb="1" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="8" h="12" e="2">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="0" 6="0" 7="3" 8="3" 9=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="4" r="3" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La 3B" vb="4" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoelkis Guibert CF" vb="5" r="1" h="2" double="0" triple="1" hr="0" rbi="4" error="0"></player>
+   <player name="Edilse Silva La LF" vb="4" r="1" h="3" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Adriel Labrada 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Rudens Sánchez D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leosdanis Molina SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Betancourt P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Colas (a),LF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Guzmán (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orrelly Ribeaux C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Danny Betancourt" inn="5.0" vb="18" h="4" c="1" cl="0" so="1" bb="1" sb="1"></player>
+   <player name="Yoandri Montero" inn="2.2" vb="8" h="0" c="0" cl="0" so="4" bb="1" sb="1"></player>
+   <player name="Yunior Tur" inn="1.1" vb="5" h="1" c="0" cl="0" so="1" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="108"></voto>
+  <voto name="A favor de Mayabeque" valor="8"></voto>
+ </pronostico>
+</game>

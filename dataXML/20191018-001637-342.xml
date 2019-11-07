@@ -1,0 +1,56 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="4" h="8" e="0">
+  <runxining 1="1" 2="3" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Aníbal Vaillant RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noel González 2B" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Maikel Caceres LF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lerys Aguilera D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 3B,2B" vb="2" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Marnolki Aguiar 1B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maracle Rubén Oriz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel A. Cabrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osday Silva 2B,3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López (1),D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Enrique Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Maracle Rubén Oriz" inn="5.2" vb="25" h="9" c="4" cl="4" so="0" bb="2" sb="0"></player>
+   <player name="Michel A. Cabrera" inn="1.2" vb="6" h="2" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Juan Enrique Perez" inn="1.0" vb="6" h="3" c="1" cl="1" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Guantanamo" c="5" h="14" e="0">
+  <runxining 1="3" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet LF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado D" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 1B,3B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Luis Angel Sánchez SS,3B,SS" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ricardo Preval 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Gomez CF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Enrique Aguero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Figueredo (a),SS" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook (b)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon (c)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daykel Manso Del 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pedro Enrique Aguero" inn="7.0" vb="23" h="6" c="4" cl="4" so="4" bb="3" sb="2"></player>
+   <player name="Luis Enrique" inn="2.0" vb="6" h="2" c="0" cl="0" so="0" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Guantanamo" valor="18"></voto>
+  <voto name="A favor de Holguin" valor="81"></voto>
+ </pronostico>
+</game>

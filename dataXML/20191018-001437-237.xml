@@ -1,0 +1,53 @@
+<game fecha="2019-09-17T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="3" h="11" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="2" 6="0" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="4" r="1" h="2" double="1" triple="0" hr="1" rbi="1" error="1"></player>
+   <player name="Yasmani Viera D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="4" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yunier Gamboa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eliseo Rojas (1),LF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danni Aguilera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luís Bring (2)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yunier Gamboa" inn="7.0" vb="22" h="2" c="0" cl="0" so="0" bb="3" sb="0"></player>
+   <player name="Danni Aguilera" inn="2.0" vb="6" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="0" h="3" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Roel Santos CF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raico Santos RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Hubert Sánchez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leandro Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Castillo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Danilo Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Leandro Martínez" inn="7.0" vb="25" h="7" c="2" cl="2" so="4" bb="1" sb="0"></player>
+   <player name="Yunier Castillo" inn="1.0" vb="6" h="3" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Juan Danilo Pérez" inn="1.0" vb="3" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="89"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="27"></voto>
+ </pronostico>
+</game>

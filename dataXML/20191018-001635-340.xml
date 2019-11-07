@@ -1,0 +1,48 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="0" h="5" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Alexander Jiménez RF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorbis Borroto SS" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Raul González 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alfredo Fadraga D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yaismel Bravo 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 2B,3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adrian Espinosa C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Ramon Alfonso CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sergio Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jasiel Gayon P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordy Yohan Wilson P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro 2B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Sergio Hernández" inn="2.1" vb="10" h="3" c="4" cl="2" so="2" bb="0" sb="0"></player>
+   <player name="Jasiel Gayon" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Yordy Yohan Wilson" inn="3.0" vb="10" h="2" c="1" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="5" h="6" e="0">
+  <runxining 1="1" 2="0" 3="3" 4="0" 5="1" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Darien Palma LF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Raico Santos RF" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Roel Santos CF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="2" r="2" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Lázaro Blanco" inn="7.0" vb="26" h="5" c="0" cl="0" so="5" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="73"></voto>
+  <voto name="A favor de Ciego de Avila" valor="30"></voto>
+ </pronostico>
+</game>

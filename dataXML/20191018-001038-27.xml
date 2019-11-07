@@ -1,0 +1,56 @@
+<game fecha="2019-08-14T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="4" h="10" e="1">
+  <runxining 1="1" 2="0" 3="2" 4="0" 5="1" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Morales De SS" vb="3" r="3" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoilán Cercé 2B" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado LF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Daykel Manso Del 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Gabriel Garbey D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Angel Sánchez 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Enrique Aguero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Angel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet (2)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Revilla (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pedro Enrique Aguero" inn="0.1" vb="5" h="4" c="5" cl="5" so="0" bb="1" sb="1"></player>
+   <player name="Jorge Angel Sánchez" inn="2.0" vb="6" h="1" c="2" cl="2" so="0" bb="1" sb="1"></player>
+   <player name="Orlandis Martínez" inn="5.2" vb="21" h="4" c="0" cl="0" so="3" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="7" h="9" e="2">
+  <runxining 1="5" 2="0" 3="2" 4="0" 5="0" 6="0" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Daviel Gómez SS" vb="5" r="1" h="3" double="0" triple="0" hr="0" rbi="2" error="1"></player>
+   <player name="Yoandy Baguet 2B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="2" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Loidel Rodríguez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rodoleisi Moreno 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Harbin Castellano P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis A. Meneses C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luis Braña P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier (a),LF,RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alejandro Javier LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoanni Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Harbin Castellano" inn="5.0" vb="23" h="7" c="4" cl="3" so="2" bb="1" sb="1"></player>
+   <player name="Jose Luis Braña" inn="3.0" vb="11" h="2" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Yoanni Hernández" inn="1.0" vb="4" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="89"></voto>
+  <voto name="A favor de Guantanamo" valor="7"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,51 @@
+<game fecha="2019-09-20T00:00:00-04:00" fase="clasificatoria">
+ <team name="Villa Clara" c="0" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Zamora RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandrys Canto 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Reyes CF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Sarduy 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Mirabal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Manuel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ivailo Leiva (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acea SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Javier Mirabal" inn="1.1" vb="8" h="6" c="4" cl="4" so="1" bb="0" sb="0"></player>
+   <player name="Pedro Manuel" inn="6.2" vb="22" h="4" c="0" cl="0" so="5" bb="3" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="4" h="10" e="0">
+  <runxining 1="1" 2="3" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Loidel Chapelli LF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Humberto Bravo 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="2" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leslie Anderson D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González CF,RF" vb="3" r="1" h="1" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Cardosa RF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Madan P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Luaces CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roger Trench P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Alvarez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanmichel Flores LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Madan" inn="7.0" vb="26" h="6" c="0" cl="0" so="4" bb="1" sb="0"></player>
+   <player name="Roger Trench" inn="2.0" vb="8" h="2" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="77"></voto>
+  <voto name="A favor de Villa Clara" valor="40"></voto>
+ </pronostico>
+</game>

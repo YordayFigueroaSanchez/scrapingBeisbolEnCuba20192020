@@ -1,0 +1,48 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="1" h="6" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1"></runxining>
+  <batters>
+   <player name="Eliseo Rojas CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jhony Hardy RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovani Alejandro LF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laidel Andres Aguila 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Luis Michel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luís Bring (1),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Wilber Pérez" inn="4.0" vb="18" h="6" c="5" cl="2" so="2" bb="3" sb="0"></player>
+   <player name="Luis Michel" inn="2.0" vb="8" h="2" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="5" h="8" e="1">
+  <runxining 1="0" 2="3" 3="0" 4="2" 5="0" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reinier León CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco LF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="William Saavedra D" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Y. Rojas C" vb="1" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra 2B" vb="3" r="2" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández (a),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoandy Cruz" inn="6.1" vb="25" h="6" c="1" cl="1" so="7" bb="0" sb="0"></player>
+   <player name="Isbel Hernández" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="68"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="31"></voto>
+ </pronostico>
+</game>

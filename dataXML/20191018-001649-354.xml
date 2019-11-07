@@ -1,0 +1,53 @@
+<game fecha="2019-10-08T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santi Spiritus" c="8" h="8" e="1">
+  <runxining 1="2" 2="0" 3="0" 4="2" 5="0" 6="0" 7="0" 8="2" 9="2"></runxining>
+  <batters>
+   <player name="Daviel Gómez SS,2B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="2" r="2" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="3" r="3" h="2" double="0" triple="0" hr="2" rbi="4" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Ibarra C" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Diosmeli Salabarria 3B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yoen Socarrás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Fontes SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Diasmany Palacio (1),1B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Angel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Rodríguez (2),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoen Socarrás" inn="7.0" vb="26" h="5" c="0" cl="0" so="9" bb="0" sb="0"></player>
+   <player name="Pedro Angel Alvarez" inn="2.0" vb="6" h="0" c="0" cl="0" so="4" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="0" h="5" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Eglis Eugellés 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Pérez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Leonel Segura 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leslie Anderson D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Cardosa LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Alvarez C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Madan P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan S. Contreras P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisander Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Angel Daniel Ramírez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Madan" inn="4.0" vb="15" h="5" c="4" cl="4" so="3" bb="1" sb="1"></player>
+   <player name="Juan S. Contreras" inn="3.0" vb="7" h="0" c="1" cl="1" so="0" bb="4" sb="0"></player>
+   <player name="Lisander Hernández" inn="1.0" vb="4" h="2" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Angel Daniel Ramírez" inn="1.0" vb="6" h="1" c="2" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="86"></voto>
+  <voto name="A favor de Santi Spiritus" valor="28"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,51 @@
+<game fecha="2019-09-21T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="1" h="8" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jhony Hardy CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Quintana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Guilarte P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Franklin Quintana" inn="5.0" vb="16" h="5" c="0" cl="0" so="1" bb="2" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="2.2" vb="12" h="4" c="5" cl="4" so="3" bb="2" sb="0"></player>
+   <player name="Raul Guilarte" inn="0.1" vb="3" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Las Tunas" c="5" h="11" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="3" 7="0" 8="2" 9=""></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Antonio D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="4" r="2" h="2" double="1" triple="0" hr="1" rbi="4" error="1"></player>
+   <player name="Denis Peña 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz 2B" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo SS" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudier Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Pablo Civil P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rafael Viñales (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oberto Coca C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yudier Rodríguez" inn="7.2" vb="30" h="7" c="1" cl="1" so="7" bb="1" sb="0"></player>
+   <player name="Alberto Pablo Civil" inn="1.1" vb="4" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Las Tunas" valor="98"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="18"></voto>
+ </pronostico>
+</game>

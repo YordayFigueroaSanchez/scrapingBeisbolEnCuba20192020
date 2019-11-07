@@ -1,0 +1,57 @@
+<game fecha="2019-09-13T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="0" h="6" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet LF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Sánchez 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Velazquez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Carlos Figueredo SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Angel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Leovarlis Brook (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell (2),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lander Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeudis Reyes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jorge Angel Sánchez" inn="6.0" vb="21" h="6" c="1" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Orlandis Martínez" inn="1.1" vb="7" h="3" c="2" cl="2" so="1" bb="0" sb="0"></player>
+   <player name="Lander Moreira" inn="0.1" vb="2" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yeudis Reyes" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="3" h="10" e="0">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="2" 9=""></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón RF,LF" vb="4" r="0" h="2" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eliseo Rojas LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés (a),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danni Aguilera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Maikel Martínez" inn="6.1" vb="21" h="4" c="0" cl="0" so="2" bb="3" sb="0"></player>
+   <player name="Wilber Pérez" inn="1.0" vb="5" h="2" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Danni Aguilera" inn="1.2" vb="5" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="93"></voto>
+  <voto name="A favor de Guantanamo" valor="19"></voto>
+ </pronostico>
+</game>

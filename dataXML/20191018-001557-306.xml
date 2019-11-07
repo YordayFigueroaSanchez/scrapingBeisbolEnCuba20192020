@@ -1,0 +1,65 @@
+<game fecha="2019-09-29T00:00:00-04:00" fase="clasificatoria">
+ <team name="Camaguey" c="5" h="12" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="0" 7="1" 8="0" 9="3"></runxining>
+  <batters>
+   <player name="Loidel Chapelli LF" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Bravo 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Ayala SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leslie Anderson D" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Marino Luis 3B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Jorge Alvarez C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Luaces CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosimar Cousin De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Cardosa (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa (2),CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Pérez (3),3B" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Smith (4)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Gómez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roger Trench P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erislery Basulto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisander Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosimar Cousin De La" inn="6.1" vb="26" h="7" c="3" cl="3" so="4" bb="3" sb="0"></player>
+   <player name="Roger Trench" inn="1.1" vb="6" h="2" c="3" cl="3" so="0" bb="0" sb="1"></player>
+   <player name="Erislery Basulto" inn="0.0" vb="1" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Lisander Hernández" inn="0.1" vb="2" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="7" h="11" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="3" 8="3" 9=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="3" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="5" r="2" h="3" double="0" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Edilse Silva La D" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Reynaldo Lamothe LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Reyna C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon Serrano 1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Bicet P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmedi Garcia P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosmel Garcés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Carlos Barbosa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Alberto Bicet" inn="4.0" vb="15" h="3" c="0" cl="0" so="1" bb="2" sb="0"></player>
+   <player name="Yoandri Montero" inn="0.1" vb="3" h="2" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Osmedi Garcia" inn="2.1" vb="12" h="5" c="1" cl="1" so="2" bb="1" sb="0"></player>
+   <player name="Yosmel Garcés" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Yunior Tur" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="2" sb="0"></player>
+   <player name="Jose Carlos Barbosa" inn="1.1" vb="6" h="2" c="3" cl="3" so="0" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="63"></voto>
+  <voto name="A favor de Camaguey" valor="53"></voto>
+ </pronostico>
+</game>

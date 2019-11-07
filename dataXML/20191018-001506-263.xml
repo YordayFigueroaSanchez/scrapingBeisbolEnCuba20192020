@@ -1,0 +1,53 @@
+<game fecha="2019-09-23T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="1" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Noel González 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordan Manduley SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Almeida 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar RF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilson Paredes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Enrique Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aníbal Vaillant (1)" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoidel Castañeda P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Enmanuel Chapman P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Wilson Paredes" inn="2.2" vb="12" h="6" c="5" cl="5" so="0" bb="3" sb="1"></player>
+   <player name="Juan Enrique Perez" inn="3.1" vb="10" h="0" c="0" cl="0" so="1" bb="2" sb="0"></player>
+   <player name="Yoidel Castañeda" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="1" sb="1"></player>
+   <player name="Enmanuel Chapman" inn="1.0" vb="4" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Industriales" c="5" h="7" e="0">
+  <runxining 1="1" 2="0" 3="4" 4="0" 5="0" 6="0" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Dayron Blanco CF,LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="3" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisbán Correa D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Stayler Hernández 1B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Ortega Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Marcos Ortega Del" inn="8.0" vb="24" h="2" c="1" cl="1" so="2" bb="1" sb="0"></player>
+   <player name="Andy Amaury" inn="1.0" vb="4" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Industriales" valor="99"></voto>
+  <voto name="A favor de Holguin" valor="19"></voto>
+ </pronostico>
+</game>

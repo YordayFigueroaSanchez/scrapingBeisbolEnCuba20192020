@@ -1,0 +1,67 @@
+<game fecha="2019-08-30T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="12" h="11" e="3">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="6" 6="0" 7="5" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Eliseo Rojas CF" vb="4" r="3" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jhony Hardy D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="2" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="5" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="3"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Jordanys Acebal C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón LF,RF" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovani Alejandro (1),D" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Guilarte P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laidel Andres Aguila 3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Maikel Martínez" inn="5.0" vb="22" h="9" c="3" cl="3" so="2" bb="2" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="2.0" vb="9" h="4" c="2" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Raul Guilarte" inn="0.2" vb="6" h="4" c="2" cl="2" so="1" bb="0" sb="0"></player>
+   <player name="Wilber Pérez" inn="1.1" vb="5" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="7" h="18" e="5">
+  <runxining 1="0" 2="1" 3="1" 4="0" 5="1" 6="1" 7="1" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Loidel Chapelli LF" vb="5" r="1" h="4" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yosbel Pérez 3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Leslie Anderson 1B" vb="5" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alexander Ayala SS" vb="4" r="2" h="3" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Marino Luis 2B,3B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Jorge Cardosa D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis González RF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Góngora De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Bravo 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura (a)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Alvarez (b),C" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisander Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erislery Basulto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roger Trench P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eglis Eugellés SS" vb="1" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yanmichel Flores (c)" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Gómez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Smith (d),D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danny Luaces (e)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dariel Góngora De La" inn="6.0" vb="26" h="6" c="9" cl="2" so="6" bb="4" sb="0"></player>
+   <player name="Lisander Hernández" inn="0.0" vb="0" h="0" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Erislery Basulto" inn="0.2" vb="3" h="2" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Roger Trench" inn="2.1" vb="8" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="100"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="21"></voto>
+ </pronostico>
+</game>

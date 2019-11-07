@@ -34,6 +34,46 @@ public class ScrapingBeisbolEnCuba20192020 {
 
 		String url = "http://www.beisbolencuba.com/series/serie-nacional-beisbol-2019-2020/todos-contra/mayabeque-contra-camaguey-2.html";
 
+//		extraerDataGame(url,111);
+		
+		String urlBoxscoreGame = "http://www.beisbolencuba.com/series/serie-nacional-beisbol-2019-2020/todos-contra";
+
+		listGame(urlBoxscoreGame);
+
+	}
+	
+	private static void listGame(String urlTournament) {
+		String url = urlTournament;
+		String urlGame = "";
+		
+		if (getStatusConnectionCode(url) == 200) {
+//			if (getStatusFile(file) == 1) {
+
+				Document documento = getHtmlDocument(url);
+//				Document documento = getHtmlFileToDocument(file);
+				//toma el elemnto time
+				Elements elementos = documento
+						.select("table.fpgt");
+				int contador = 0;
+				for (Element element : elementos) {
+					contador++;
+					Elements tbody = element.select("tr > th > a");
+					if (tbody.get(0).html().equals("Final")) {
+						System.out.println(""+contador+":"+tbody.get(0).html()+":"+tbody.get(0).attr("href"));
+						urlGame = "http://www.beisbolencuba.com" + tbody.get(0).attr("href");
+						extraerDataGame(urlGame,contador);
+					}else {
+						System.out.println(""+contador+":"+tbody.get(0).html());
+					}
+					
+				}
+				
+		}
+		
+	}
+	private static void extraerDataGame(String urlGame, int numero) {
+		String url = urlGame;
+
 		String file = "ejemplo.html";
 
 		File input = new File("data/"  + file);
@@ -72,59 +112,64 @@ public class ScrapingBeisbolEnCuba20192020 {
 			Elements elementosTbody = documento
 					.select("table.stats > tbody");
 			System.out.println(elementosTbody.size());
+			if(elementosTbody.size() == 6){
+				
+			
 			//marcador
 			Element marcadorCompleto = elementosTbody.get(0);
 			Elements marcadorCompletoTr = marcadorCompleto.select("tr");
 			
+			//marcador visitante
 			Element marcadorCompletoTrVisi = marcadorCompletoTr.get(2);
 			Elements marcadorCompletoTrVisiTd = marcadorCompletoTrVisi.select("td");
 			Element teamVisi = extractTeamMarcador(marcadorCompletoTrVisiTd, doc);
 			rootElement.appendChild(teamVisi);
 			
+			//marcador homeclub
 			Element marcadorCompletoTrHome = marcadorCompletoTr.get(3);
 			Elements marcadorCompletoTrHomeTd = marcadorCompletoTrHome.select("td");
 			Element teamHome = extractTeamMarcador(marcadorCompletoTrHomeTd, doc);
 			rootElement.appendChild(teamHome);
 			
 			//System.out.println(marcadorCompletoTrVisi.html());
+			//se toma los elementos table con class stats y tbody
+			Elements elementosTbodyBat = documento
+					.select("table.stats.batters > tbody");
+			System.out.println(elementosTbodyBat.size());
+			
 			//batter visi
+			Element batVisi = elementosTbodyBat.get(0);
+			Elements batVisiList = batVisi.select("tr");
+			Element batVisiExtract = extractBat(batVisiList,doc);
+			teamVisi.appendChild(batVisiExtract);
 			
 			//batter home
+			Element batHome = elementosTbodyBat.get(1);
+			Elements batHomeList = batHome.select("tr");
+			Element batHomeExtract = extractBat(batHomeList,doc);
+			teamHome.appendChild(batHomeExtract);
 			
 			//pitch visi
+			Element pitchVisi = elementosTbodyBat.get(2);
+			Elements pitchVisiList = pitchVisi.select("tr");
+			Element pitchVisiExtract = extractPitch(pitchVisiList,doc);
+			teamVisi.appendChild(pitchVisiExtract);
 			
 			//pitch home
+			Element pitchHome = elementosTbodyBat.get(3);
+			Elements pitchHomeList = pitchHome.select("tr");
+			Element pitchHomeExtract = extractPitch(pitchHomeList,doc);
+			teamHome.appendChild(pitchHomeExtract);
 			
 			//pronostico
+			Element pronostico = elementosTbody.get(5);
+			Elements pronosticoTr = pronostico.select("tr");
+			Element pronosticoExtract = extractPronostico(pronosticoTr,doc);
+			rootElement.appendChild(pronosticoExtract);
 			
+			//anotaciones
 			
-//			Analizando el grupo de bateadores del team VS
-//			Elements elementosOffensiveVs = documento
-//					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Bateo_VS_DXMainTable] > tbody > tr");
-//			System.out.println(elementosOffensiveVs.size());
-//			rootElement.appendChild(extractOffensiveHtmlToXml( elementosOffensiveVs, doc));
-			
-//			Analizando el grupo de bateadores del team HC
-//			Elements elementosOffensiveHc = documento
-//					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Bateo_HC_DXMainTable] > tbody > tr");
-//			System.out.println(elementosOffensiveHc.size());
-//			rootElement.appendChild(extractOffensiveHtmlToXml( elementosOffensiveHc, doc));
-			
-//			Analizando el grupo de bateadores del team VS
-//			Elements elementosPitchVs = documento
-//					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Pitch_VS_DXMainTable] > tbody > tr");
-//			System.out.println(elementosPitchVs.size());
-//			rootElement.appendChild(extractPitchHtmlToXml( elementosPitchVs, doc));
-			
-//			Analizando el grupo de bateadores del team HC
-//			Elements elementosPitchHc = documento
-//					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Pitch_HC_DXMainTable] > tbody > tr");
-//			System.out.println(elementosPitchHc.size());
-//			rootElement.appendChild(extractPitchHtmlToXml( elementosPitchHc, doc));
-
-			
-			
-			
+			}
 			
 		}
 
@@ -141,7 +186,7 @@ public class ScrapingBeisbolEnCuba20192020 {
 				BufferedWriter  writer = null;
 		        try
 		        {
-		            writer = new BufferedWriter( new FileWriter(ruta + nombreFichero + ".xml"));
+		            writer = new BufferedWriter( new FileWriter(ruta  + nombreFichero + "-" + numero + ".xml"));
 		            System.out.println(rootElement.outerHtml());
 		            writer.write(rootElement.outerHtml());
 
@@ -162,7 +207,75 @@ public class ScrapingBeisbolEnCuba20192020 {
 				}}
 				
 				System.out.println("File saved!");
+	}
 
+	private static Element extractPitch(Elements pitchVisiList, Document doc) {
+		Element bat = doc.createElement("pitchers");
+		
+		for (int i = 2; i < pitchVisiList.size(); i++) {
+			Element nodo = doc.createElement("player");
+			Elements nodoPitcherAttr = pitchVisiList.get(i).select("td");
+			
+			nodo.attr("name", nodoPitcherAttr.get(0).text());
+			nodo.attr("inn", nodoPitcherAttr.get(1).text());
+			nodo.attr("vb", nodoPitcherAttr.get(2).text());
+			nodo.attr("h", nodoPitcherAttr.get(3).text());
+			nodo.attr("c", nodoPitcherAttr.get(4).text());
+			nodo.attr("cl", nodoPitcherAttr.get(5).text());
+			nodo.attr("so", nodoPitcherAttr.get(6).text());
+			nodo.attr("bb", nodoPitcherAttr.get(7).text());
+			nodo.attr("sb", nodoPitcherAttr.get(8).text());
+			
+			bat.appendChild(nodo);
+		}
+//		team.appendChild(runxining);
+		return bat;
+	}
+
+	
+	private static Element extractPronostico(Elements pitchVisiList, Document doc) {
+		Element bat = doc.createElement("pronostico");
+		
+			Element nodo1 = doc.createElement("voto");
+			Element nodo2 = doc.createElement("voto");
+			
+			Elements nodoEncabezado = pitchVisiList.get(0).select("th");
+			Elements nodoData = pitchVisiList.get(1).select("td > b");
+			
+			nodo1.attr("name", nodoEncabezado.get(0).text());
+			nodo2.attr("name", nodoEncabezado.get(1).text());
+			
+			nodo1.attr("valor", nodoData.get(0).text());
+			nodo2.attr("valor", nodoData.get(1).text());
+			
+			
+			bat.appendChild(nodo1);
+			bat.appendChild(nodo2);
+
+			return bat;
+	}
+	
+	private static Element extractBat(Elements batVisiList, Document doc) {
+		Element bat = doc.createElement("batters");
+		
+		for (int i = 2; i < batVisiList.size(); i++) {
+			Element nodoBatters = doc.createElement("player");
+			Elements nodoBattersAttr = batVisiList.get(i).select("td");
+			
+			nodoBatters.attr("name", nodoBattersAttr.get(0).text());
+			nodoBatters.attr("vb", nodoBattersAttr.get(1).text());
+			nodoBatters.attr("r", nodoBattersAttr.get(2).text());
+			nodoBatters.attr("h", nodoBattersAttr.get(3).text());
+			nodoBatters.attr("double", nodoBattersAttr.get(4).text());
+			nodoBatters.attr("triple", nodoBattersAttr.get(5).text());
+			nodoBatters.attr("hr", nodoBattersAttr.get(6).text());
+			nodoBatters.attr("rbi", nodoBattersAttr.get(7).text());
+			nodoBatters.attr("error", nodoBattersAttr.get(8).text());
+			
+			bat.appendChild(nodoBatters);
+		}
+//		team.appendChild(runxining);
+		return bat;
 	}
 
 	/**

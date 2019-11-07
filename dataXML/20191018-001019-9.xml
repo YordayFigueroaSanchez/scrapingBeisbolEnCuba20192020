@@ -1,0 +1,57 @@
+<game fecha="2019-08-11T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="0" h="4" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lázaro Alfredo D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias LF,1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Hubert Sánchez C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="César García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma (1),LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González (2),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="César García" inn="6.0" vb="25" h="9" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Kelbis Rodríguez" inn="0.1" vb="1" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Carlos Santana" inn="1.2" vb="5" h="0" c="0" cl="0" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="1" h="10" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Donal Duarte D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra 1B" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaifredo Domínguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra (a),3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jenier álvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Fernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yaifredo Domínguez" inn="7.0" vb="23" h="4" c="0" cl="0" so="3" bb="3" sb="0"></player>
+   <player name="Jenier álvarez" inn="0.1" vb="1" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Dariel Fernandez" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Isbel Hernández" inn="1.1" vb="4" h="0" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="51"></voto>
+  <voto name="A favor de Granma" valor="25"></voto>
+ </pronostico>
+</game>

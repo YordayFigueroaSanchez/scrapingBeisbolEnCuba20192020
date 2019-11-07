@@ -1,0 +1,55 @@
+<game fecha="2019-08-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="2" h="7" e="0">
+  <runxining 1="0" 2="1" 3="0" 4="1" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Garcia 1B" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Hubert Sánchez C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erluis Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainiel Lopez LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Erluis Blanco" inn="5.0" vb="19" h="5" c="1" cl="1" so="6" bb="1" sb="0"></player>
+   <player name="Carlos Santana" inn="2.0" vb="8" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Las Tunas" c="1" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Antonio D" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Denis Peña 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo SS" vb="2" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dailier Peña LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Adiel Moreno P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Pablo Civil P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yormani Socarrás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonis Figueredo (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Garcia (b)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo (c)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Adiel Moreno" inn="3.1" vb="11" h="3" c="2" cl="2" so="5" bb="4" sb="0"></player>
+   <player name="Alberto Pablo Civil" inn="2.2" vb="11" h="4" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Yormani Socarrás" inn="1.0" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Las Tunas" valor="69"></voto>
+  <voto name="A favor de Granma" valor="31"></voto>
+ </pronostico>
+</game>

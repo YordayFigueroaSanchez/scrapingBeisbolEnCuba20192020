@@ -1,0 +1,70 @@
+<game fecha="2019-08-23T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="6" h="12" e="2">
+  <runxining 1="0" 2="0" 3="1" 4="1" 5="3" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Yhosvani Peñalver RF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yordanis Samón 1B" vb="4" r="1" h="4" double="1" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Lisbán Correa D" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nalber Yadan Cruz 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Camilo Morejon C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo SS" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén CF" vb="2" r="2" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pavel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Elder Nodal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Armando Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayron Blanco (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Ortega Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmel Cordero (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pavel Hernández" inn="5.0" vb="19" h="6" c="2" cl="2" so="1" bb="3" sb="1"></player>
+   <player name="Elder Nodal" inn="1.0" vb="6" h="3" c="3" cl="3" so="1" bb="0" sb="1"></player>
+   <player name="Andy Amaury" inn="0.2" vb="4" h="2" c="5" cl="5" so="2" bb="3" sb="0"></player>
+   <player name="José Armando Pérez" inn="1.0" vb="8" h="5" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Marcos Ortega Del" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Guantanamo" c="11" h="16" e="2">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="0" 6="1" 7="7" 8="1" 9=""></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leovarlis Brook D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Félix Carbonell C" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Angel Sánchez SS" vb="4" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Preval 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Jairon LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Navarro P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Revilla (a),D" vb="3" r="1" h="3" double="1" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Yoenni Turcás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lander Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio C. Preval P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lionis Delgado (b),3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet (c),LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Guillermo Gomez CF" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Orlando Morales De (d),3B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado (e)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Daykel Manso Del (f),1B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Angel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Frank Navarro" inn="4.0" vb="20" h="10" c="5" cl="3" so="3" bb="1" sb="1"></player>
+   <player name="Yoenni Turcás" inn="1.0" vb="3" h="0" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Lander Moreira" inn="0.1" vb="1" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Julio C. Preval" inn="2.0" vb="5" h="0" c="0" cl="0" so="2" bb="0" sb="1"></player>
+   <player name="Jorge Angel Sánchez" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Luis Enrique" inn="1.0" vb="4" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Guantanamo" valor="16"></voto>
+  <voto name="A favor de Industriales" valor="95"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,53 @@
+<game fecha="2019-09-21T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="0" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reilandy González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gian Moises Palacio P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Fernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoandy Cruz" inn="4.0" vb="17" h="5" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Reilandy González" inn="0.1" vb="0" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Gian Moises Palacio" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Isbel Hernández" inn="1.1" vb="4" h="1" c="3" cl="3" so="2" bb="4" sb="1"></player>
+   <player name="Dariel Fernandez" inn="0.1" vb="3" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="3" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="3" 7=""></runxining>
+  <batters>
+   <player name="Dismani Ortiz LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rodoleisi Moreno 3B" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Ibarra C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosmeli Salabarria SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamichel Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier (a),RF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yamichel Pérez" inn="5.0" vb="15" h="1" c="0" cl="0" so="3" bb="2" sb="0"></player>
+   <player name="Yanieski Duardo" inn="2.0" vb="7" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="72"></voto>
+  <voto name="A favor de Pinar del Rio" valor="36"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,56 @@
+<game fecha="2019-09-13T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="1" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La D" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="3" r="0" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Colas LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Bicet P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon Serrano (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosmel Garcés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orrelly Ribeaux C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Alberto Bicet" inn="7.0" vb="27" h="8" c="0" cl="0" so="2" bb="2" sb="1"></player>
+   <player name="Yosmel Garcés" inn="0.0" vb="1" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yunior Tur" inn="2.0" vb="6" h="0" c="0" cl="0" so="4" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="0" h="9" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Reinier León CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra 1B" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández LF" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yaser Julio González RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanciel Ajete C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaifredo Domínguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta (a),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reilandy González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Fernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovannys Hernandez (c)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yaifredo Domínguez" inn="7.0" vb="28" h="7" c="1" cl="1" so="4" bb="3" sb="0"></player>
+   <player name="Reilandy González" inn="1.1" vb="5" h="1" c="0" cl="0" so="2" bb="2" sb="0"></player>
+   <player name="Dariel Fernandez" inn="0.2" vb="1" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="66"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="51"></voto>
+ </pronostico>
+</game>

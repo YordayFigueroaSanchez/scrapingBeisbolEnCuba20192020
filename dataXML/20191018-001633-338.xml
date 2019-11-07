@@ -1,0 +1,52 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="2" h="4" e="0">
+  <runxining 1="0" 2="1" 3="0" 4="1" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Jorge Enrique Alomá 2B,SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Samón 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilfredo Yasel D" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Vladimir Baños P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmel Cordero (1)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo (2),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayron Blanco LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jens Jens (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nalber Yadan Cruz 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Armando Pérez (4)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Vladimir Baños" inn="6.0" vb="23" h="6" c="3" cl="3" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="3" h="6" e="0">
+  <runxining 1="0" 2="0" 3="2" 4="1" 5="0" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Lázaro Dayán Pérez CF,RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Moises Esquerrez SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Cosme C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Lian Camilo 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Ramos RF,LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes 3B,SS" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Victor Gonzalez 2B,3B" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Michel Ortiz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Paez 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="José Angel García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Michel Ortiz" inn="5.0" vb="17" h="4" c="2" cl="2" so="4" bb="5" sb="0"></player>
+   <player name="José Angel García" inn="2.0" vb="6" h="0" c="0" cl="0" so="3" bb="3" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="20"></voto>
+  <voto name="A favor de Industriales" valor="85"></voto>
+ </pronostico>
+</game>

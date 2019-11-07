@@ -1,0 +1,62 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Villa Clara" c="1" h="6" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Roberto Acea SS,2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Duviel Zamora 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Raul Reyes CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio Enrique C" vb="4" r="1" h="2" double="2" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Sarduy 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lazaro Javier P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Manuel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanny Delgado P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Otoniel Gonzalez (1),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Cueto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Lopez (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Oscar Hernandez" inn="0.0" vb="1" h="1" c="3" cl="3" so="0" bb="2" sb="0"></player>
+   <player name="Lazaro Javier" inn="0.1" vb="4" h="3" c="2" cl="2" so="1" bb="1" sb="0"></player>
+   <player name="Pedro Manuel" inn="3.2" vb="16" h="5" c="3" cl="3" so="2" bb="3" sb="0"></player>
+   <player name="Yanny Delgado" inn="3.0" vb="9" h="0" c="0" cl="0" so="1" bb="1" sb="1"></player>
+   <player name="Randy Cueto" inn="1.0" vb="5" h="2" c="2" cl="2" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Holguin" c="10" h="11" e="0">
+  <runxining 1="5" 2="2" 3="0" 4="1" 5="0" 6="0" 7="0" 8="2" 9=""></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera D" vb="2" r="3" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel Gorguet 1B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasiel Andy Gonzalez RF,LF" vb="5" r="1" h="2" double="1" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Franklin Aballe C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Julio David Góngora SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Noel González 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Carlos A. P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Almeida (a),1B" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leandro Julio P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aníbal Vaillant (b),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Antonio Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos A." inn="7.0" vb="24" h="6" c="1" cl="1" so="1" bb="5" sb="0"></player>
+   <player name="Leandro Julio" inn="1.0" vb="3" h="0" c="0" cl="0" so="3" bb="0" sb="0"></player>
+   <player name="José Antonio Sánchez" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Holguin" valor="40"></voto>
+  <voto name="A favor de Villa Clara" valor="53"></voto>
+ </pronostico>
+</game>

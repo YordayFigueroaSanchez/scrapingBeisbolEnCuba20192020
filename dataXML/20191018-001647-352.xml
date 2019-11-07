@@ -1,0 +1,59 @@
+<game fecha="2019-10-08T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="2" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="2"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Michael González SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 3B,2B" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel R. Camacho 2B,SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyler Gracial P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez 3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez (1)" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Mario Batista" inn="4.0" vb="16" h="6" c="6" cl="6" so="2" bb="3" sb="0"></player>
+   <player name="Carlos Pérez" inn="1.0" vb="4" h="2" c="0" cl="0" so="0" bb="2" sb="0"></player>
+   <player name="Geyler Gracial" inn="1.0" vb="3" h="1" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="2.0" vb="6" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Las Tunas" c="8" h="10" e="0">
+  <runxining 1="0" 2="0" 3="4" 4="0" 5="2" 6="0" 7="2" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="3" r="1" h="2" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="3" r="2" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Danel Castro D" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="2" r="2" h="0" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Denis Peña 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Andrés De La Cruz SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rafael Viñales 1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo LF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoalkis Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Garcia (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbel Alarcón P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dailier Peña LF,RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudier Rondón (b),D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oberto Coca C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yonisbel Pompa 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonis Figueredo LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoalkis Cruz" inn="6.0" vb="22" h="4" c="0" cl="0" so="4" bb="2" sb="0"></player>
+   <player name="Yosbel Alarcón" inn="3.0" vb="12" h="4" c="2" cl="2" so="2" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Las Tunas" valor="106"></voto>
+  <voto name="A favor de Mayabeque" valor="5"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,62 @@
+<game fecha="2019-10-06T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="5" h="10" e="0">
+  <runxining 1="2" 2="2" 3="1" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Sánchez RF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Duque D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Camero LF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="2" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Rivero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Joel Suárez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Armando Dueñas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandy Javier Castro P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Haykel Parra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Vázquez (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jesus Daniel Olivera C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Naykel Yoel Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Reinier Rivero" inn="1.1" vb="7" h="3" c="3" cl="3" so="1" bb="0" sb="0"></player>
+   <player name="Joel Suárez" inn="0.0" vb="1" h="1" c="3" cl="3" so="0" bb="2" sb="0"></player>
+   <player name="Armando Dueñas" inn="0.0" vb="1" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Irandy Javier Castro" inn="2.1" vb="10" h="4" c="2" cl="2" so="2" bb="2" sb="0"></player>
+   <player name="Haykel Parra" inn="0.2" vb="4" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Naykel Yoel Cruz" inn="1.2" vb="7" h="2" c="1" cl="1" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santiago de Cuba" c="9" h="13" e="1">
+  <runxining 1="0" 2="6" 3="0" 4="2" 5="0" 6="1" 7=""></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="1"></player>
+   <player name="Yoelkis Guibert CF" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La D" vb="4" r="1" h="4" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adriel Labrada 3B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Andrés Reyna C" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reynaldo Lamothe LF" vb="3" r="2" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosmel Garcés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmedi Garcia P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Uber Luis Mejias P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosmel Garcés" inn="0.1" vb="4" h="3" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Yoandri Montero" inn="1.1" vb="5" h="2" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Osmedi Garcia" inn="1.0" vb="5" h="3" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Uber Luis Mejias" inn="4.1" vb="15" h="2" c="0" cl="0" so="2" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santiago de Cuba" valor="71"></voto>
+  <voto name="A favor de Matanzas" valor="35"></voto>
+ </pronostico>
+</game>

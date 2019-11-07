@@ -1,0 +1,57 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Las Tunas" c="5" h="14" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="2" 6="0" 7="0" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jorge Antonio D" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="5" r="0" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Denis Peña 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ernesto Felipe SS,2B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Juan Viera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rafael Viñales (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dailier Peña (2),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yacel Labrada P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Juan Viera" inn="7.0" vb="29" h="11" c="2" cl="2" so="2" bb="3" sb="0"></player>
+   <player name="Yacel Labrada" inn="2.0" vb="6" h="0" c="0" cl="0" so="1" bb="1" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="2" h="11" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Geyser A. Cepeda CF" vb="4" r="1" h="2" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Frederich Cepeda D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Ibarra C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daviel Gómez SS,3B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosmeli Salabarria 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoen Socarrás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Eduardo Santos P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoanni Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diasmany Palacio (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Rodríguez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Fontes SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoen Socarrás" inn="4.2" vb="21" h="8" c="3" cl="3" so="4" bb="1" sb="0"></player>
+   <player name="José Eduardo Santos" inn="0.2" vb="2" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yoanni Hernández" inn="2.1" vb="9" h="2" c="2" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Yanieski Duardo" inn="1.1" vb="6" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="38"></voto>
+  <voto name="A favor de Las Tunas" valor="67"></voto>
+ </pronostico>
+</game>

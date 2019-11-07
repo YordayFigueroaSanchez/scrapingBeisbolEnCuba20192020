@@ -1,0 +1,59 @@
+<game fecha="2019-08-31T00:00:00-04:00" fase="clasificatoria">
+ <team name="Artemisa" c="5" h="11" e="2">
+  <runxining 1="4" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Moises Esquerrez SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Yansel Reyes 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayán García 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Cosme C" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yansue More 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Dayán Pérez RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Luis Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel Ortiz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sean Rodriguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osmel Fraga (1),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Reinier Ramos CF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dairon Alpizar P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sandro Tornes C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Victor Gonzalez 3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Andy Luis Perez" inn="2.2" vb="11" h="4" c="4" cl="4" so="1" bb="5" sb="0"></player>
+   <player name="Michel Ortiz" inn="1.1" vb="7" h="3" c="4" cl="4" so="0" bb="2" sb="0"></player>
+   <player name="Sean Rodriguez" inn="2.2" vb="17" h="7" c="3" cl="2" so="2" bb="1" sb="0"></player>
+   <player name="Dairon Alpizar" inn="1.1" vb="5" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="11" h="15" e="0">
+  <runxining 1="0" 2="2" 3="2" 4="1" 5="3" 6="0" 7="3" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Rodoleisi Moreno 3B" vb="6" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Frederich Cepeda D" vb="4" r="3" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="4" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="2" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Ibarra C" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Diosmeli Salabarria SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamichel Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier LF,RF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yankel Mencia (a),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daviel Gómez 2B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Canoto C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Carlos González 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yamichel Pérez" inn="5.2" vb="24" h="8" c="5" cl="5" so="5" bb="3" sb="0"></player>
+   <player name="Yanieski Duardo" inn="3.1" vb="11" h="3" c="0" cl="0" so="1" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="93"></voto>
+  <voto name="A favor de Artemisa" valor="19"></voto>
+ </pronostico>
+</game>

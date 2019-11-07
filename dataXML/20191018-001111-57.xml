@@ -1,0 +1,59 @@
+<game fecha="2019-08-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="6" h="14" e="0">
+  <runxining 1="4" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="1" 9="1"></runxining>
+  <batters>
+   <player name="Yhosvani Peñalver RF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilfredo Yasel 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lisbán Correa D" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Samón 1B" vb="5" r="2" h="4" double="0" triple="0" hr="2" rbi="4" error="0"></player>
+   <player name="Oscar Valdés C" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Roberto Acevedo SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayron Blanco CF,LF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bryan Chi P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Pablo Cuesta P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Denis Quesada P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Camilo Morejon C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoasán Guillén (1),CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nalber Yadan Cruz 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Bryan Chi" inn="5.0" vb="19" h="4" c="1" cl="1" so="4" bb="3" sb="1"></player>
+   <player name="José Pablo Cuesta" inn="0.0" vb="3" h="3" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Denis Quesada" inn="0.1" vb="2" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Andy Amaury" inn="3.2" vb="14" h="3" c="1" cl="1" so="2" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Cienfuegos" c="4" h="11" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="2" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edwin Vassel D" vb="5" r="1" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Rodríguez CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Alejandro Serpa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Camilo A. Ballester P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alex Daniel Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Rodríguez (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leorisbel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Luis Alejandro Serpa" inn="0.2" vb="5" h="3" c="4" cl="4" so="1" bb="1" sb="0"></player>
+   <player name="Camilo A. Ballester" inn="1.1" vb="8" h="4" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Alex Daniel Perez" inn="6.1" vb="20" h="5" c="2" cl="2" so="4" bb="1" sb="1"></player>
+   <player name="Leorisbel Sánchez" inn="0.2" vb="4" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Cienfuegos" valor="22"></voto>
+  <voto name="A favor de Industriales" valor="82"></voto>
+ </pronostico>
+</game>

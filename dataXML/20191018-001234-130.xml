@@ -1,0 +1,58 @@
+<game fecha="2019-08-31T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="5" h="11" e="0">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="3" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="4" r="2" h="2" double="2" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Sánchez RF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan Miguel Vázquez LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Camero D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Rivero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaniel Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoisnel Camejo (1),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sandy RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Reinier Rivero" inn="6.0" vb="21" h="5" c="2" cl="2" so="1" bb="3" sb="1"></player>
+   <player name="Yaniel Blanco" inn="3.0" vb="14" h="5" c="1" cl="1" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Granma" c="3" h="10" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="2" 5="0" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Darien Palma CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Guillermo José D" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Darién García LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Agustín Arias RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ariel Pestano C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez (a),RF,CF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alien Hechevarria LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erluis Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel González (b),RF" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca (c),LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanquiel Sanchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Lázaro Blanco" inn="6.0" vb="23" h="6" c="3" cl="2" so="4" bb="1" sb="0"></player>
+   <player name="Erluis Blanco" inn="0.2" vb="4" h="3" c="1" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Carlos Santana" inn="1.1" vb="5" h="2" c="1" cl="1" so="0" bb="2" sb="0"></player>
+   <player name="Yanquiel Sanchez" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Kelbis Rodríguez" inn="1.0" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Granma" valor="85"></voto>
+  <voto name="A favor de Matanzas" valor="33"></voto>
+ </pronostico>
+</game>

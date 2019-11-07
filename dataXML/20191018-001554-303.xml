@@ -1,0 +1,62 @@
+<game fecha="2019-09-29T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="9" h="11" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="4" 6="5" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Maikel Caceres D" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noel González 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yordan Manduley SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="4" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Peña CF,RF,LF" vb="3" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto 1B,C,1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez LF,RF,LF" vb="3" r="2" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Franklin Aballe C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar RF,1B,RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusmel Velázquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilson Paredes P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Aníbal Vaillant (2),LF" vb="1" r="2" h="1" double="0" triple="0" hr="0" rbi="2" error="1"></player>
+   <player name="Michel A. Cabrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laindel Efrén Leyva CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Enrique Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yusmel Velázquez" inn="2.0" vb="7" h="3" c="2" cl="2" so="1" bb="2" sb="0"></player>
+   <player name="Wilson Paredes" inn="2.2" vb="11" h="3" c="5" cl="1" so="0" bb="3" sb="1"></player>
+   <player name="Michel A. Cabrera" inn="0.2" vb="4" h="2" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Juan Enrique Perez" inn="3.2" vb="13" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="8" h="10" e="1">
+  <runxining 1="1" 2="1" 3="0" 4="1" 5="4" 6="1" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera D" vb="3" r="3" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón LF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="1"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="2" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Jordanys Acebal C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erasmo Millán P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Michel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danni Aguilera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Miguel Angel Lastra" inn="4.1" vb="17" h="6" c="4" cl="4" so="1" bb="1" sb="0"></player>
+   <player name="Wilber Pérez" inn="0.2" vb="3" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Maikel Martínez" inn="0.1" vb="3" h="2" c="3" cl="3" so="0" bb="1" sb="0"></player>
+   <player name="Erasmo Millán" inn="0.0" vb="0" h="0" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Luis Michel" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="1" sb="1"></player>
+   <player name="Danni Aguilera" inn="3.0" vb="8" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="79"></voto>
+  <voto name="A favor de Holguin" valor="33"></voto>
+ </pronostico>
+</game>

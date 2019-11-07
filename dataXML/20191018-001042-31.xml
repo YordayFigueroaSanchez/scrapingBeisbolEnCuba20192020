@@ -1,0 +1,66 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="1" h="5" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Bárbaro Rodríguez 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Daniel Pérez 1B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Edwin Vassel D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Rodríguez CF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Alejandro Serpa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raicol Suárez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Camilo A. Ballester P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reemberto Barreto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dany Pérez (1),3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Sevilla (2),LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique (3),RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Hasiel Hernandez C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Oramas CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Lazo (4),D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Santos (5)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Luis Alejandro Serpa" inn="1.0" vb="3" h="1" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Raicol Suárez" inn="4.2" vb="23" h="11" c="6" cl="6" so="1" bb="3" sb="0"></player>
+   <player name="Camilo A. Ballester" inn="0.2" vb="6" h="4" c="4" cl="4" so="0" bb="0" sb="0"></player>
+   <player name="Reemberto Barreto" inn="1.2" vb="6" h="1" c="0" cl="0" so="2" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="10" h="17" e="2">
+  <runxining 1="0" 2="0" 3="1" 4="2" 5="0" 6="3" 7="4" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="4" r="2" h="3" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo LF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasniel González RF" vb="5" r="1" h="3" double="1" triple="0" hr="1" rbi="5" error="1"></player>
+   <player name="Michael González 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="5" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Martínez D" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darián Alonso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyler Gracial P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez (a)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel R. Camacho (b),2B,SS" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote (c),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan C. Hernández (d)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Corvo 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+  </batters>
+  <pitchers>
+   <player name="Darián Alonso" inn="3.0" vb="10" h="2" c="1" cl="1" so="2" bb="2" sb="0"></player>
+   <player name="Geyler Gracial" inn="2.2" vb="9" h="1" c="0" cl="0" so="4" bb="1" sb="0"></player>
+   <player name="Carlos Pérez" inn="3.1" vb="12" h="2" c="0" cl="0" so="2" bb="1" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="35"></voto>
+  <voto name="A favor de Cienfuegos" valor="61"></voto>
+ </pronostico>
+</game>

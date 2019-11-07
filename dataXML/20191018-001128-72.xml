@@ -1,0 +1,55 @@
+<game fecha="2019-08-22T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="2" h="7" e="0">
+  <runxining 1="1" 2="0" 3="1" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Cesar Prieto 2B,SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Edwin Vassel D" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Richel López C" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Rodríguez CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasmany Insua P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Oramas SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yusniel Lazo (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José A. Ozuna P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Rodríguez 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Herrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasmany Insua" inn="7.0" vb="29" h="11" c="3" cl="3" so="2" bb="3" sb="0"></player>
+   <player name="José A. Ozuna" inn="0.2" vb="4" h="2" c="1" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Bárbaro Herrera" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Matanzas" c="4" h="13" e="0">
+  <runxining 1="0" 2="1" 3="0" 4="0" 5="1" 6="0" 7="1" 8="1" 9=""></runxining>
+  <batters>
+   <player name="Aníbal Medina 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Sánchez D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Vázquez LF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Willian Luis RF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Andrys Perez C" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="4" r="1" h="3" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Noelvis Entenza P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Martínez 2B" vb="2" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ramón Licor P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Armando Dueñas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoisnel Camejo LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Noelvis Entenza" inn="6.2" vb="24" h="6" c="2" cl="2" so="3" bb="6" sb="0"></player>
+   <player name="Ramón Licor" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Armando Dueñas" inn="2.1" vb="7" h="1" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Matanzas" valor="61"></voto>
+  <voto name="A favor de Cienfuegos" valor="47"></voto>
+ </pronostico>
+</game>

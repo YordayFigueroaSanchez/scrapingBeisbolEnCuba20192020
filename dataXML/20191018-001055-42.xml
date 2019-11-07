@@ -1,0 +1,53 @@
+<game fecha="2019-08-16T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="1" h="8" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Alexander Jiménez LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaismel Bravo 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Vázquez C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martín D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Enrique CF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro SS" vb="2" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jose Ramon Alfonso 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yander Guevara P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorlian Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leomil González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González (1),LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro (2),1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yander Guevara" inn="6.2" vb="26" h="7" c="3" cl="3" so="0" bb="2" sb="2"></player>
+   <player name="Yorlian Rodríguez" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="0" sb="1"></player>
+   <player name="Leomil González" inn="1.1" vb="4" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="3" h="8" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="3" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="3" r="1" h="2" double="2" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jhony Hardy CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="2"></player>
+   <player name="Luis Felipe Rivera D" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Carbo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erasmo Millán P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danni Aguilera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jonathan Carbo" inn="7.0" vb="24" h="8" c="1" cl="1" so="4" bb="1" sb="0"></player>
+   <player name="Erasmo Millán" inn="0.1" vb="2" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Danni Aguilera" inn="1.2" vb="5" h="0" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="23"></voto>
+  <voto name="A favor de Ciego de Avila" valor="75"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,56 @@
+<game fecha="2019-09-16T00:00:00-04:00" fase="clasificatoria">
+ <team name="Holguin" c="2" h="9" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0" 8="1" 9="0"></runxining>
+  <batters>
+   <player name="Julio David Góngora CF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordan Manduley SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Caceres LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Paumier 3B" vb="4" r="1" h="2" double="1" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Jorge Luis Peña RF" vb="3" r="1" h="3" double="0" triple="0" hr="1" rbi="1" error="1"></player>
+   <player name="Pedro Almeida 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Noel González 2B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos A. P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoidel Castañeda P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel A. Cabrera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iván Prieto C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osday Silva 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leandro Julio P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos A." inn="2.0" vb="13" h="8" c="5" cl="4" so="1" bb="0" sb="0"></player>
+   <player name="Yoidel Castañeda" inn="0.0" vb="2" h="2" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Michel A. Cabrera" inn="5.2" vb="20" h="4" c="0" cl="0" so="2" bb="1" sb="0"></player>
+   <player name="Leandro Julio" inn="0.1" vb="1" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="7" h="14" e="0">
+  <runxining 1="1" 2="0" 3="6" 4="0" 5="0" 6="0" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Edain Román 2B,LF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo D" vb="4" r="2" h="2" double="0" triple="0" hr="1" rbi="3" error="0"></player>
+   <player name="Yasniel González RF" vb="3" r="1" h="3" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Juan C. Hernández 1B" vb="4" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Michael González 3B" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yadián Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote (a),RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alyanser álvarez Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel R. Camacho 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yadián Martínez" inn="7.0" vb="25" h="7" c="1" cl="1" so="3" bb="5" sb="1"></player>
+   <player name="Alyanser álvarez Del" inn="2.0" vb="7" h="2" c="1" cl="1" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="36"></voto>
+  <voto name="A favor de Holguin" valor="74"></voto>
+ </pronostico>
+</game>

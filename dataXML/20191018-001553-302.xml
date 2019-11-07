@@ -1,0 +1,60 @@
+<game fecha="2019-09-29T00:00:00-04:00" fase="clasificatoria">
+ <team name="Matanzas" c="4" h="13" e="0">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="0" 6="0" 7="1" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Juan Miguel Martínez 2B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Sánchez LF" vb="5" r="1" h="3" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="5" r="0" h="2" double="0" triple="1" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Camero D" vb="5" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Willian Luis RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="4" r="2" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Yoanni Yera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Armando Dueñas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Haykel Parra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Duque (1)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sandy (2),2B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ramón Licor P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Miguel Vázquez (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jesus Daniel Olivera C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Quesada P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoanni Yera" inn="4.0" vb="20" h="10" c="4" cl="4" so="3" bb="1" sb="0"></player>
+   <player name="Armando Dueñas" inn="1.0" vb="4" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Haykel Parra" inn="1.1" vb="6" h="3" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Ramón Licor" inn="1.0" vb="5" h="3" c="3" cl="3" so="1" bb="1" sb="0"></player>
+   <player name="Andy Quesada" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="7" h="18" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="3" 5="1" 6="0" 7="0" 8="3" 9=""></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="2" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco LF" vb="3" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="William Saavedra D" vb="5" r="1" h="4" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Olber Anier Peña C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra 2B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosvani Torres P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Donal Duarte (a)" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Geovannys Hernandez (b)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanciel Ajete C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña (c),LF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosvani Torres" inn="6.1" vb="26" h="9" c="3" cl="3" so="2" bb="1" sb="1"></player>
+   <player name="Yoandy Cruz" inn="2.2" vb="12" h="4" c="1" cl="1" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="46"></voto>
+  <voto name="A favor de Matanzas" valor="65"></voto>
+ </pronostico>
+</game>

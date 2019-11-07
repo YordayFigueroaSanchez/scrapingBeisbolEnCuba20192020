@@ -1,0 +1,50 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="5" h="8" e="1">
+  <runxining 1="4" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0"></runxining>
+  <batters>
+   <player name="Jose Ramon Alfonso CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorbis Borroto SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Raul González 3B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelvis Fiss D" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro C,1B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Abdel Civil RF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González LF" vb="2" r="0" h="2" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="Humberto Morales 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yander Guevara P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Jiménez (1),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alfredo Fadraga (2),C" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaismel Bravo (3),1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yander Guevara" inn="7.0" vb="26" h="6" c="4" cl="4" so="2" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="4" h="6" e="0">
+  <runxining 1="4" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Lázaro Dayán Pérez RF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes SS" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayán García 2B" vb="2" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yoan Moreno CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lian Camilo 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José C. Padrón C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansue More 3B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Victor Gonzalez 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Cosme C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Israel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Ramos (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Ricardo Martínez" inn="5.1" vb="20" h="6" c="5" cl="5" so="4" bb="5" sb="0"></player>
+   <player name="Israel Sánchez" inn="1.2" vb="7" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="33"></voto>
+  <voto name="A favor de Ciego de Avila" valor="77"></voto>
+ </pronostico>
+</game>

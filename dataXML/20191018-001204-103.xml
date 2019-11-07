@@ -1,0 +1,55 @@
+<game fecha="2019-08-27T00:00:00-04:00" fase="clasificatoria">
+ <team name="Artemisa" c="7" h="10" e="0">
+  <runxining 1="0" 2="0" 3="2" 4="2" 5="0" 6="3" 7="0"></runxining>
+  <batters>
+   <player name="Moises Esquerrez SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes 3B" vb="4" r="3" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno D" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Dayán García 2B" vb="3" r="1" h="3" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Andy Cosme C" vb="3" r="1" h="1" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lian Camilo 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier Ramos RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Dayán Pérez CF" vb="2" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulieski González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansue More (1),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Israel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Angel García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yulieski González" inn="5.0" vb="22" h="8" c="2" cl="2" so="2" bb="0" sb="0"></player>
+   <player name="Israel Sánchez" inn="1.1" vb="6" h="3" c="2" cl="2" so="1" bb="0" sb="0"></player>
+   <player name="José Angel García" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="4" h="11" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="2" 5="0" 6="0" 7="2"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acea 2B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Juan Carlos Lopez D" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Duviel Zamora 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Reyes LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Otoniel Gonzalez CF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alain Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanny Delgado P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Hernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Cueto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ivailo Leiva (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yandrys Canto (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Alain Sánchez" inn="1.0" vb="5" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Yanny Delgado" inn="2.2" vb="12" h="4" c="4" cl="2" so="2" bb="4" sb="0"></player>
+   <player name="Oscar Hernandez" inn="2.1" vb="11" h="4" c="3" cl="3" so="3" bb="3" sb="0"></player>
+   <player name="Randy Cueto" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="92"></voto>
+  <voto name="A favor de Artemisa" valor="18"></voto>
+ </pronostico>
+</game>

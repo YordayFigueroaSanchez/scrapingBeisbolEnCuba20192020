@@ -1,0 +1,54 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Ciego de Avila" c="5" h="7" e="0">
+  <runxining 1="4" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0" 10="1"></runxining>
+  <batters>
+   <player name="Jose Ramon Alfonso RF,LF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorbis Borroto SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Raul González 3B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelvis Fiss CF" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro 1B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Abdel Civil D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González LF" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Adrian Espinosa C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Baro 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Vladimir García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leomil González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Humberto Morales 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Jiménez LF,RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yorlian Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Cardenas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordy Yohan Wilson (1)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alfredo Fadraga C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Vladimir García" inn="6.0" vb="25" h="9" c="3" cl="3" so="4" bb="2" sb="0"></player>
+   <player name="Leomil González" inn="0.2" vb="4" h="2" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Yorlian Rodríguez" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Osvaldo Cardenas" inn="3.0" vb="10" h="1" c="0" cl="0" so="2" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="4" h="12" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="1" 6="1" 7="1" 8="0" 9="0" 10="0"></runxining>
+  <batters>
+   <player name="Victor Gonzalez 3B" vb="4" r="1" h="3" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes SS" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayán García 2B" vb="6" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="6" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoan Moreno CF" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lian Camilo 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Cosme C" vb="4" r="1" h="2" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Reinier Ramos RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Misael Villa P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Luis Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Misael Villa" inn="7.0" vb="26" h="6" c="4" cl="4" so="1" bb="2" sb="0"></player>
+   <player name="Andy Luis Perez" inn="3.0" vb="8" h="1" c="1" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="30"></voto>
+  <voto name="A favor de Ciego de Avila" valor="70"></voto>
+ </pronostico>
+</game>

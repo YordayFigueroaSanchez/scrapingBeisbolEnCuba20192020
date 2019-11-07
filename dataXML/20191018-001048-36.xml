@@ -1,0 +1,54 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Cienfuegos" c="11" h="11" e="0">
+  <runxining 1="4" 2="0" 3="7" 4="0" 5="0"></runxining>
+  <batters>
+   <player name="Bárbaro Rodríguez 2B" vb="1" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Vicente Mateo SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Daniel Pérez 1B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pavel Quesada 3B" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Juan Miguel Soriano LF" vb="3" r="2" h="2" double="1" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Edwin Vassel D" vb="1" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yusniel Ibáñez RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Richel López C" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Félix Rodríguez CF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasmany Insua P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yasmany Insua" inn="5.0" vb="18" h="4" c="0" cl="0" so="3" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="0" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Iriandy Sotelo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="David Avila P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Pedroso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel R. Camacho SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Michel Rios C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Carabeo (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Iriandy Sotelo" inn="1.1" vb="5" h="2" c="4" cl="4" so="0" bb="2" sb="2"></player>
+   <player name="David Avila" inn="0.2" vb="4" h="4" c="3" cl="3" so="0" bb="0" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="0.0" vb="2" h="2" c="3" cl="3" so="0" bb="1" sb="0"></player>
+   <player name="Javier Pedroso" inn="3.0" vb="11" h="3" c="1" cl="1" so="1" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="24"></voto>
+  <voto name="A favor de Cienfuegos" valor="67"></voto>
+ </pronostico>
+</game>

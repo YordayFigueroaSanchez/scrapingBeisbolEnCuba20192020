@@ -1,0 +1,65 @@
+<game fecha="2019-08-23T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="8" h="11" e="2">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="1" 6="2" 7="3" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS,3B" vb="6" r="0" h="4" double="4" triple="0" hr="0" rbi="6" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edilse Silva La LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dennis Ala D" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Adriel Labrada 3B,1B" vb="5" r="1" h="2" double="2" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Luis Guzmán 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Reyna C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez RF,LF" vb="2" r="2" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Carlos Font P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leosdanis Molina (1),SS" vb="2" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Colas (2)" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandri Montero P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yunior Tur P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Font" inn="5.0" vb="20" h="4" c="4" cl="2" so="5" bb="2" sb="1"></player>
+   <player name="Yoandri Montero" inn="2.2" vb="11" h="4" c="2" cl="1" so="2" bb="1" sb="0"></player>
+   <player name="Yunior Tur" inn="1.1" vb="4" h="0" c="0" cl="0" so="4" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Ciego de Avila" c="6" h="8" e="2">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="2" 6="0" 7="0" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Ariel Enrique CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaismel Bravo LF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul González 3B" vb="5" r="2" h="2" double="1" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Osvaldo Vázquez D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martín 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alfredo Fadraga C" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Abdel Civil RF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Valdés 2B" vb="4" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoelkis Baro SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Diego Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jasiel Gayon P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordy Yohan Wilson CF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Osvaldo Cardenas P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Lara P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Fernando Betanzo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Sergio Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Lazaro (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronaldo Castillo (b),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yudiel González (c)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Ramon Alfonso CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Diego Martínez" inn="4.0" vb="17" h="5" c="3" cl="3" so="1" bb="3" sb="0"></player>
+   <player name="Jasiel Gayon" inn="1.0" vb="3" h="0" c="1" cl="1" so="1" bb="2" sb="0"></player>
+   <player name="Osvaldo Cardenas" inn="0.1" vb="1" h="1" c="1" cl="1" so="0" bb="1" sb="1"></player>
+   <player name="Yordanis Lara" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Fernando Betanzo" inn="0.1" vb="5" h="4" c="3" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Sergio Hernández" inn="2.2" vb="8" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Ciego de Avila" valor="70"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="37"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,53 @@
+<game fecha="2019-09-09T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santiago de Cuba" c="5" h="9" e="1">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="4" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Santiago Torres 2B" vb="5" r="1" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Ramos La SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoelkis Guibert CF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Edilse Silva La D" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rudens Sánchez RF" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="1"></player>
+   <player name="Adriel Labrada 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Guzmán 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaicel Manuel Perez LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Llanes C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Font P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leosdanis Molina SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosmel Garcés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeri Martínez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Carlos Font" inn="7.0" vb="22" h="4" c="1" cl="1" so="1" bb="3" sb="1"></player>
+   <player name="Yosmel Garcés" inn="2.0" vb="8" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="1" h="5" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="1" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Eliseo Rojas LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="2" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Geovani Alejandro D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Quintana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Maikel Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Michel P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Franklin Quintana" inn="4.2" vb="21" h="7" c="5" cl="5" so="4" bb="2" sb="0"></player>
+   <player name="Maikel Martínez" inn="2.1" vb="8" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Luis Michel" inn="2.0" vb="7" h="1" c="0" cl="0" so="2" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="67"></voto>
+  <voto name="A favor de Santiago de Cuba" valor="55"></voto>
+ </pronostico>
+</game>

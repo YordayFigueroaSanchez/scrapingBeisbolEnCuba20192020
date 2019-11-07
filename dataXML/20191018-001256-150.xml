@@ -1,0 +1,58 @@
+<game fecha="2019-09-04T00:00:00-04:00" fase="clasificatoria">
+ <team name="Villa Clara" c="2" h="9" e="2">
+  <runxining 1="0" 2="0" 3="2" 4="0" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez D" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando 1B" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez 3B" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Duviel Zamora 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raul Reyes CF,RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yulexis La Rosa C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Mirabal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronny Valdés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanny Delgado P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acea 2B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Alonso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Otoniel Gonzalez (1),CF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daniel Lopez (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Javier Mirabal" inn="5.1" vb="16" h="2" c="4" cl="3" so="1" bb="5" sb="2"></player>
+   <player name="Ronny Valdés" inn="0.2" vb="3" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Yanny Delgado" inn="0.1" vb="4" h="2" c="2" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Mailon Alonso" inn="1.2" vb="7" h="3" c="1" cl="1" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="7" h="8" e="1">
+  <runxining 1="2" 2="0" 3="0" 4="0" 5="0" 6="2" 7="2" 8="1" 9=""></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="3" r="2" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jhony Hardy CF" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Felipe Rivera D" vb="1" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón 1B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Aquimo Jiménez SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Franklin Quintana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laidel Andres Aguila (a),3B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Del C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel (b),D" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luís Bring RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Franklin Quintana" inn="4.1" vb="18" h="4" c="2" cl="2" so="2" bb="3" sb="0"></player>
+   <player name="Wilber Pérez" inn="4.2" vb="18" h="5" c="0" cl="0" so="1" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="42"></voto>
+  <voto name="A favor de Villa Clara" valor="80"></voto>
+ </pronostico>
+</game>

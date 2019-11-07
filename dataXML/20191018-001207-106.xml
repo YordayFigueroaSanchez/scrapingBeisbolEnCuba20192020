@@ -1,0 +1,51 @@
+<game fecha="2019-08-27T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="2" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="1" 7="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Lázaro Emilio Blanco 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Yaser Julio González LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Fernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña (1),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoandy Cruz" inn="5.0" vb="19" h="5" c="0" cl="0" so="3" bb="1" sb="0"></player>
+   <player name="Dariel Fernandez" inn="0.1" vb="1" h="0" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Isbel Hernández" inn="1.2" vb="5" h="1" c="0" cl="0" so="2" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Camaguey" c="1" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0"></runxining>
+  <batters>
+   <player name="Humberto Bravo 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yosbel Pérez 3B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Segura 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leslie Anderson D" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Chapelli LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Ayala SS" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis González RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yendri Téllez C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonel Moa CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosimar Cousin De La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eglis Eugellés (a),D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Smith (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yanmichel Flores (c),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yosimar Cousin De La" inn="7.0" vb="24" h="4" c="2" cl="2" so="5" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Camaguey" valor="53"></voto>
+  <voto name="A favor de Pinar del Rio" valor="55"></voto>
+ </pronostico>
+</game>

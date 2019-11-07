@@ -1,0 +1,55 @@
+<game fecha="2019-08-22T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="1" h="7" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Aquimo Jiménez D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovani Alejandro LF" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonathan Carbo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laidel Andres Aguila SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danni Aguilera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas (2)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jonathan Carbo" inn="6.1" vb="24" h="6" c="3" cl="3" so="6" bb="3" sb="1"></player>
+   <player name="Wilber Pérez" inn="0.0" vb="2" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Danni Aguilera" inn="1.2" vb="5" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="3" h="9" e="0">
+  <runxining 1="0" 2="1" 3="0" 4="0" 5="1" 6="0" 7="1" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Rodoleisi Moreno 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="3" r="2" h="2" double="2" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="2" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Ibarra C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosmeli Salabarria SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edelso Montesino P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luis Braña P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier LF,RF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alejandro Javier (a),LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Edelso Montesino" inn="4.2" vb="16" h="4" c="1" cl="1" so="6" bb="5" sb="1"></player>
+   <player name="Jose Luis Braña" inn="3.1" vb="11" h="3" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Yanieski Duardo" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="91"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="16"></voto>
+ </pronostico>
+</game>

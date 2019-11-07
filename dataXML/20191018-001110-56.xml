@@ -1,0 +1,54 @@
+<game fecha="2019-08-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Isla de la Juventud" c="7" h="9" e="0">
+  <runxining 1="3" 2="2" 3="0" 4="0" 5="0" 6="2" 7="0"></runxining>
+  <batters>
+   <player name="Eliseo Rojas LF" vb="4" r="2" h="2" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Jhony Hardy CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Viera 3B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="2" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jordanys Acebal C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erasmo Millán P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Quintana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón (1),D" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geovani Alejandro LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Erasmo Millán" inn="0.0" vb="1" h="1" c="1" cl="1" so="0" bb="2" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="4.1" vb="18" h="6" c="3" cl="3" so="3" bb="0" sb="0"></player>
+   <player name="Franklin Quintana" inn="1.2" vb="5" h="1" c="0" cl="0" so="0" bb="2" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Artemisa" c="4" h="8" e="3">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="3" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Moises Esquerrez SS" vb="2" r="2" h="2" double="1" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yansel Reyes 3B" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yoan Moreno CF" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Dayán García 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Andy Cosme C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lian Camilo 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Osmel Fraga LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Dayán Pérez RF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulieski González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raymel Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Manuel Murgado P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dayron Diaz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yulieski González" inn="2.0" vb="11" h="5" c="5" cl="3" so="1" bb="2" sb="0"></player>
+   <player name="Raymel Pérez" inn="4.0" vb="14" h="4" c="2" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Manuel Murgado" inn="0.1" vb="0" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Dayron Diaz" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Artemisa" valor="35"></voto>
+  <voto name="A favor de Isla de la Juventud" valor="59"></voto>
+ </pronostico>
+</game>

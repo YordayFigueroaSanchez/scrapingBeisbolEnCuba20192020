@@ -1,0 +1,53 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Pinar del Rio" c="7" h="10" e="0">
+  <runxining 1="0" 2="2" 3="1" 4="3" 5="0" 6="1" 7="0"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco LF" vb="2" r="1" h="2" double="0" triple="1" hr="0" rbi="2" error="0"></player>
+   <player name="William Saavedra D" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="3" r="1" h="3" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Luis Pablo Acosta RF" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Tony D. Guerra 2B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaifredo Domínguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Y. Rojas (1),D" vb="1" r="1" h="1" double="0" triple="1" hr="0" rbi="0" error="0"></player>
+   <player name="Reilandy González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yaifredo Domínguez" inn="5.0" vb="16" h="3" c="0" cl="0" so="4" bb="4" sb="0"></player>
+   <player name="Reilandy González" inn="2.0" vb="7" h="1" c="0" cl="0" so="4" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Mayabeque" c="0" h="4" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Alexander Pozo RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Carabeo D" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote LF,RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darián Alonso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulian Quintana La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Mario Batista" inn="3.2" vb="15" h="6" c="6" cl="4" so="1" bb="4" sb="1"></player>
+   <player name="Carlos Pérez" inn="1.1" vb="6" h="2" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Darián Alonso" inn="1.0" vb="5" h="2" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Yulian Quintana La" inn="1.0" vb="3" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Mayabeque" valor="13"></voto>
+  <voto name="A favor de Pinar del Rio" valor="92"></voto>
+ </pronostico>
+</game>

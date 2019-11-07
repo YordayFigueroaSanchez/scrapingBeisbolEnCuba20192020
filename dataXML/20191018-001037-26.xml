@@ -1,0 +1,53 @@
+<game fecha="2019-08-14T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="3" h="7" e="4">
+  <runxining 1="0" 2="2" 3="0" 4="1" 5="0" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Raico Santos CF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marcos Luis Fonseca 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="2"></player>
+   <player name="Osvaldo Abreu 3B" vb="5" r="0" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Alfredo D" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="2" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Hubert Sánchez C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexquemer Sánchez RF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Erluis Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Juan Danilo Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Kelbis Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darien Palma LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Erluis Blanco" inn="3.0" vb="11" h="2" c="2" cl="1" so="2" bb="3" sb="1"></player>
+   <player name="Juan Danilo Pérez" inn="4.0" vb="15" h="2" c="1" cl="1" so="2" bb="2" sb="0"></player>
+   <player name="Kelbis Rodríguez" inn="1.1" vb="5" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Industriales" c="4" h="5" e="2">
+  <runxining 1="0" 2="1" 3="0" 4="1" 5="1" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Dayron Blanco LF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF" vb="5" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Yoandry Urgellés D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lisbán Correa 1B" vb="3" r="2" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Wilfredo Yasel 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Hernández 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Yoasán Guillén CF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Ponce P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Erick Cristhian P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Amaury P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jens Jens (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acevedo (b),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Héctor Ponce" inn="6.0" vb="23" h="5" c="3" cl="2" so="2" bb="1" sb="1"></player>
+   <player name="Erick Cristhian" inn="1.0" vb="4" h="2" c="0" cl="0" so="1" bb="1" sb="0"></player>
+   <player name="Andy Amaury" inn="2.0" vb="6" h="0" c="0" cl="0" so="4" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Industriales" valor="86"></voto>
+  <voto name="A favor de Granma" valor="20"></voto>
+ </pronostico>
+</game>

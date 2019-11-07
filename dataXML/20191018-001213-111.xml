@@ -1,0 +1,55 @@
+<game fecha="2019-08-28T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="3" h="9" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="2" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="4" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexander Pozo D" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasniel González RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Carabeo C" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan C. Hernández 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González 3B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Rangel Ramos SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darián Alonso P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyler Gracial P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alyanser álvarez Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jeison Martinez (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Darián Alonso" inn="2.0" vb="13" h="7" c="5" cl="5" so="0" bb="3" sb="1"></player>
+   <player name="Geyler Gracial" inn="4.0" vb="13" h="4" c="0" cl="0" so="0" bb="3" sb="0"></player>
+   <player name="Carlos Pérez" inn="0.2" vb="3" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Mario Batista" inn="0.2" vb="2" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Alyanser álvarez Del" inn="0.2" vb="2" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="5" h="12" e="1">
+  <runxining 1="1" 2="3" 3="1" 4="0" 5="0" 6="0" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Rodoleisi Moreno 3B" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="5" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunier Mendoza 1B" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Frederich Cepeda D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="5" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yunior Ibarra C" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Diosmeli Salabarria SS" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Angel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yankiel Mauri P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier (a),LF,RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alejandro Javier LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Pedro Angel Alvarez" inn="5.0" vb="21" h="7" c="3" cl="3" so="5" bb="0" sb="0"></player>
+   <player name="Yankiel Mauri" inn="4.0" vb="13" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="92"></voto>
+  <voto name="A favor de Mayabeque" valor="23"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,50 @@
+<game fecha="2019-10-02T00:00:00-04:00" fase="clasificatoria">
+ <team name="Industriales" c="1" h="5" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Dayron Blanco CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yhosvani Peñalver RF,LF,RF" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandry Urgellés LF,RF,LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Samón D" vb="3" r="0" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Enrique Alomá 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Stayler Hernández 1B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Valdés C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Luis Barcelán 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yamil Rivalta SS" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Bryan Chi P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Armando Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Elder Nodal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Bryan Chi" inn="5.0" vb="20" h="7" c="2" cl="2" so="4" bb="3" sb="1"></player>
+   <player name="José Armando Pérez" inn="0.1" vb="2" h="2" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Elder Nodal" inn="0.2" vb="3" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Isla de la Juventud" c="4" h="10" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="0" 6="3" 7=""></runxining>
+  <batters>
+   <player name="Jhony Hardy CF" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dainier Gálvez 2B" vb="2" r="0" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yasmani Viera D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis Felipe Rivera 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alberto Calderón LF" vb="2" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Rojas 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonardo Urgellés RF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jordanys Acebal C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eddy Rodríguez SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Wilber Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Miguel Angel Lastra P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eliseo Rojas (a)" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Laidel Andres Aguila SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Wilber Pérez" inn="5.0" vb="18" h="4" c="1" cl="1" so="3" bb="1" sb="0"></player>
+   <player name="Miguel Angel Lastra" inn="1.1" vb="5" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Isla de la Juventud" valor="37"></voto>
+  <voto name="A favor de Industriales" valor="67"></voto>
+ </pronostico>
+</game>

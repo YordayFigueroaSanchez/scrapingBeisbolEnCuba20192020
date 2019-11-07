@@ -1,0 +1,56 @@
+<game fecha="2019-08-18T00:00:00-04:00" fase="clasificatoria">
+ <team name="Guantanamo" c="3" h="11" e="0">
+  <runxining 1="1" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Leonelkis Escalante RF" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="5" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leovarlis Brook 1B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey D" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Robert Luis Delgado LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Sánchez 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Morales De SS" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Figueredo CF,LF" vb="4" r="1" h="3" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Dairon Mena P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Biorgelvis Roque CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Enrique P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daykel Manso Del (1),1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon (2)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Velazquez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reidel Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Revilla (3)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Dairon Mena" inn="5.0" vb="17" h="3" c="2" cl="2" so="4" bb="1" sb="1"></player>
+   <player name="Orlandis Martínez" inn="0.2" vb="3" h="2" c="2" cl="2" so="0" bb="1" sb="0"></player>
+   <player name="Luis Enrique" inn="1.2" vb="6" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Reidel Moreira" inn="0.2" vb="2" h="0" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Villa Clara" c="4" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="4" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Roberto Acea 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Duviel Zamora 3B" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Raul Reyes CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Daniel Lopez 1B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio Enrique C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Mirabal P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Walter Orlando (a),1B" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ronny Valdés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+  </batters>
+  <pitchers>
+   <player name="Javier Mirabal" inn="7.1" vb="27" h="8" c="2" cl="2" so="4" bb="4" sb="1"></player>
+   <player name="Ronny Valdés" inn="1.2" vb="8" h="3" c="1" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Villa Clara" valor="92"></voto>
+  <voto name="A favor de Guantanamo" valor="8"></voto>
+ </pronostico>
+</game>

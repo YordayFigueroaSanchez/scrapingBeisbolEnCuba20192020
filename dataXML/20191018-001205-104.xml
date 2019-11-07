@@ -1,0 +1,68 @@
+<game fecha="2019-08-27T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="7" h="10" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="2" 6="0" 7="1" 8="0" 9="4"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alexander Pozo LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González RF" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Carabeo D" vb="5" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Michael González 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rangel Ramos SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mailon Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="David Avila P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Miguel Vasquez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Fernández C" vb="1" r="1" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Mario Batista P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Martínez (1),3B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jeison Martinez (2),2B" vb="2" r="2" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Juan C. Hernández (3),1B" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote (4),LF" vb="2" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Alyanser álvarez Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González SS" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulian Quintana La P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Mailon Cruz" inn="1.2" vb="11" h="7" c="6" cl="6" so="1" bb="1" sb="1"></player>
+   <player name="David Avila" inn="2.1" vb="13" h="6" c="2" cl="2" so="0" bb="0" sb="0"></player>
+   <player name="Luis Miguel Vasquez" inn="1.1" vb="7" h="3" c="4" cl="4" so="1" bb="2" sb="0"></player>
+   <player name="Mario Batista" inn="0.2" vb="0" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Alyanser álvarez Del" inn="1.0" vb="3" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Yulian Quintana La" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Santi Spiritus" c="12" h="17" e="1">
+  <runxining 1="2" 2="4" 3="0" 4="2" 5="0" 6="4" 7="0" 8="0" 9=""></runxining>
+  <batters>
+   <player name="Rodoleisi Moreno 3B" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yunier Mendoza 1B" vb="4" r="3" h="3" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frederich Cepeda D" vb="4" r="3" h="3" double="1" triple="0" hr="1" rbi="4" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="1" h="4" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="3" error="0"></player>
+   <player name="Eduardo Javier LF,RF" vb="4" r="1" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yunior Ibarra C" vb="3" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Diosmeli Salabarria SS" vb="3" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Edelso Montesino P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Luis Braña P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alejandro Javier (a),LF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Daviel Gómez (b)" vb="1" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Luis A. Meneses (c),C" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Fontes (d),SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="José Carlos González 1B" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yankel Mencia CF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Santiago P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Edelso Montesino" inn="5.0" vb="16" h="2" c="2" cl="2" so="3" bb="5" sb="1"></player>
+   <player name="Jose Luis Braña" inn="3.1" vb="17" h="7" c="5" cl="3" so="0" bb="0" sb="0"></player>
+   <player name="Osvaldo Santiago" inn="0.2" vb="2" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Santi Spiritus" valor="95"></voto>
+  <voto name="A favor de Mayabeque" valor="14"></voto>
+ </pronostico>
+</game>

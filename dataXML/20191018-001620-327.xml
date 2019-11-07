@@ -1,0 +1,53 @@
+<game fecha="2019-10-03T00:00:00-04:00" fase="clasificatoria">
+ <team name="Villa Clara" c="1" h="6" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="0" 6="1" 7="0" 8="0"></runxining>
+  <batters>
+   <player name="Andy Zamora RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Carlos Lopez 3B" vb="3" r="0" h="2" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Walter Orlando 1B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yurién Vizcaino LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yandrys Canto 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yeniet Pérez D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yulexis La Rosa C" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Rolando Portal SS" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Otoniel Gonzalez CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Fredy Asiel Alvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose D. Ruíz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ronny Valdés P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Randy Cueto P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Fredy Asiel Alvarez" inn="2.0" vb="6" h="0" c="0" cl="0" so="2" bb="0" sb="0"></player>
+   <player name="Jose D. Ruíz" inn="2.0" vb="8" h="3" c="1" cl="1" so="0" bb="0" sb="0"></player>
+   <player name="Ronny Valdés" inn="2.2" vb="8" h="1" c="3" cl="1" so="2" bb="2" sb="2"></player>
+   <player name="Yasmani Hernández" inn="0.0" vb="1" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Randy Cueto" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Matanzas" c="4" h="4" e="0">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="1" 6="1" 7="2" 8=""></runxining>
+  <batters>
+   <player name="Juan Miguel Martínez 2B" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Sánchez RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jefferson Delgado 3B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yariel Duque D" vb="3" r="1" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yasiel Santoya 1B" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Javier Camero LF" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Bárbaro Erisbel SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrys Perez C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Blanco CF" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jonder Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoisnel Camejo (a),LF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaniel Blanco P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Jonder Martínez" inn="7.0" vb="25" h="5" c="1" cl="1" so="4" bb="1" sb="0"></player>
+   <player name="Yaniel Blanco" inn="1.0" vb="4" h="1" c="0" cl="0" so="0" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Matanzas" valor="81"></voto>
+  <voto name="A favor de Villa Clara" valor="26"></voto>
+ </pronostico>
+</game>

@@ -1,0 +1,68 @@
+<game fecha="2019-08-12T00:00:00-04:00" fase="clasificatoria">
+ <team name="Santi Spiritus" c="9" h="11" e="3">
+  <runxining 1="2" 2="0" 3="2" 4="0" 5="2" 6="0" 7="0" 8="0" 9="0" 10="1" 11="2"></runxining>
+  <batters>
+   <player name="Daviel Gómez SS" vb="5" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Baguet 2B" vb="4" r="2" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Yunier Mendoza 1B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Frederich Cepeda D" vb="3" r="3" h="3" double="0" triple="0" hr="2" rbi="4" error="0"></player>
+   <player name="Geyser A. Cepeda CF" vb="4" r="1" h="2" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Dunieski Ramón RF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dismani Ortiz LF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Loidel Rodríguez C" vb="5" r="0" h="3" double="1" triple="0" hr="0" rbi="2" error="1"></player>
+   <player name="Rodoleisi Moreno 3B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yankiel Mauri P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Adrian Belfast P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel González P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Osvaldo Santiago P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoanni Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Carlos González (1)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanieski Duardo P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Eduardo Javier LF,RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Manuel Fontes (2),D" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yankel Mencia (3),LF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yankiel Mauri" inn="3.1" vb="17" h="7" c="5" cl="5" so="2" bb="2" sb="0"></player>
+   <player name="Adrian Belfast" inn="0.0" vb="1" h="1" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Ariel González" inn="2.1" vb="7" h="1" c="0" cl="0" so="1" bb="4" sb="1"></player>
+   <player name="Osvaldo Santiago" inn="1.0" vb="4" h="1" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="Yoanni Hernández" inn="1.1" vb="5" h="1" c="0" cl="0" so="1" bb="0" sb="0"></player>
+   <player name="Yanieski Duardo" inn="3.0" vb="10" h="0" c="2" cl="0" so="2" bb="1" sb="1"></player>
+  </pitchers>
+ </team>
+ <team name="Holguin" c="8" h="11" e="1">
+  <runxining 1="1" 2="0" 3="1" 4="3" 5="0" 6="0" 7="1" 8="0" 9="0" 10="1" 11="1"></runxining>
+  <batters>
+   <player name="Maikel Caceres LF" vb="5" r="1" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Noel González 2B" vb="3" r="2" h="2" double="2" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Pedro Almeida 1B" vb="6" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lerys Aguilera D" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Jorge Luis Peña CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="1"></player>
+   <player name="Osday Silva 3B" vb="6" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Franklin Aballe C" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marnolki Aguiar RF" vb="1" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio David Góngora SS" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rubén Rodríguez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoidel Castañeda P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasiel Andy Gonzalez RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yosbany Millan (a),2B" vb="3" r="1" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Iván Prieto (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michel Gorguet (c)" vb="1" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Aníbal Vaillant (d)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Nelson Miguel C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Laindel Efrén Leyva SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Oscar Julián López RF" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Juan Enrique Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Rubén Rodríguez" inn="2.2" vb="12" h="4" c="4" cl="4" so="1" bb="3" sb="0"></player>
+   <player name="Yoidel Castañeda" inn="7.2" vb="26" h="7" c="5" cl="1" so="2" bb="2" sb="0"></player>
+   <player name="Juan Enrique Perez" inn="0.2" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="1"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Holguin" valor="47"></voto>
+  <voto name="A favor de Santi Spiritus" valor="40"></voto>
+ </pronostico>
+</game>

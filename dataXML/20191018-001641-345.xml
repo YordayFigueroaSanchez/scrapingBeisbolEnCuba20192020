@@ -1,0 +1,52 @@
+<game fecha="2019-10-07T00:00:00-04:00" fase="clasificatoria">
+ <team name="Mayabeque" c="1" h="4" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="1" 5="0" 6="0" 7="0"></runxining>
+  <batters>
+   <player name="Edain Román 2B" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Oliva LF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Michael González SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasniel González 1B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Javier Carabeo D" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Lavandera CF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlando Capote RF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dariel Rodríguez C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William González 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Mailon Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Pérez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alyanser álvarez Del P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Mailon Cruz" inn="4.2" vb="22" h="8" c="3" cl="3" so="2" bb="0" sb="0"></player>
+   <player name="Carlos Pérez" inn="0.1" vb="1" h="0" c="0" cl="0" so="0" bb="0" sb="0"></player>
+   <player name="Alyanser álvarez Del" inn="1.0" vb="4" h="2" c="0" cl="0" so="0" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Las Tunas" c="3" h="10" e="1">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="3" 6="0" 7=""></runxining>
+  <batters>
+   <player name="Yuniesky Larduert CF" vb="3" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés Quiala RF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Danel Castro D" vb="3" r="1" h="2" double="1" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Yosvani Alarcón C" vb="3" r="0" h="1" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yordanis Alarcón 3B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Denis Peña 1B,2B" vb="3" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andrés De La Cruz 2B,SS" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ernesto Felipe SS" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Héctor Castillo LF" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Armando Peña P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Rafael Viñales 1B" vb="2" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Carlos Juan Viera P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Leonis Figueredo (a)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Magdiel Alfredo SS" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Dailier Peña LF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="José Armando Peña" inn="5.0" vb="18" h="4" c="1" cl="1" so="3" bb="0" sb="0"></player>
+   <player name="Carlos Juan Viera" inn="2.0" vb="6" h="0" c="0" cl="0" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Las Tunas" valor="98"></voto>
+  <voto name="A favor de Mayabeque" valor="7"></voto>
+ </pronostico>
+</game>

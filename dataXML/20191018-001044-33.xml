@@ -1,0 +1,59 @@
+<game fecha="2019-08-15T00:00:00-04:00" fase="clasificatoria">
+ <team name="Artemisa" c="3" h="7" e="0">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="0" 6="0" 7="0" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Moises Esquerrez SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansel Reyes 3B" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoan Moreno CF" vb="4" r="0" h="1" double="1" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Dayán García 2B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Ronmy Proenza LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Cosme C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jose Antonio Jimenez D" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lian Camilo 1B" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Dayán Pérez RF" vb="2" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Andy Luis Perez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Israel Sánchez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yansue More (1),1B" vb="0" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="José Angel García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Andy Luis Perez" inn="5.1" vb="17" h="4" c="2" cl="2" so="1" bb="6" sb="0"></player>
+   <player name="Israel Sánchez" inn="2.2" vb="10" h="3" c="1" cl="1" so="0" bb="1" sb="0"></player>
+   <player name="José Angel García" inn="0.1" vb="1" h="1" c="1" cl="1" so="0" bb="2" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Pinar del Rio" c="4" h="8" e="0">
+  <runxining 1="0" 2="0" 3="1" 4="0" 5="0" 6="1" 7="1" 8="0" 9="1"></runxining>
+  <batters>
+   <player name="Juan Carlos SS" vb="5" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reinier León CF" vb="3" r="1" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Donal Duarte 1B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="William Saavedra D" vb="1" r="1" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Pedro Luis Rodríguez 3B" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Raul Gonzalez LF" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yaser Julio González RF" vb="1" r="1" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yanciel Ajete C" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Pedro Luis Dueñas 2B" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoandy Cruz P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Lázaro Emilio Blanco (a)" vb="1" r="0" h="1" double="1" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Geovannys Hernandez (b)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank A. álvarez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Olber Anier Peña C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Marlon A. Lamontaña LF" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Frank Carlos Díaz (c)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Tony D. Guerra 3B" vb="1" r="0" h="1" double="0" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Isbel Hernández P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Irandi Hernández (d)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Jorge Y. Rojas (e),C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Yoandy Cruz" inn="6.0" vb="22" h="5" c="1" cl="1" so="4" bb="0" sb="0"></player>
+   <player name="Frank A. álvarez" inn="1.0" vb="3" h="0" c="2" cl="2" so="1" bb="2" sb="0"></player>
+   <player name="Isbel Hernández" inn="2.0" vb="7" h="2" c="0" cl="0" so="1" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Pinar del Rio" valor="79"></voto>
+  <voto name="A favor de Artemisa" valor="14"></voto>
+ </pronostico>
+</game>

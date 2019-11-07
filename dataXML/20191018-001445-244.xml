@@ -1,0 +1,57 @@
+<game fecha="2019-09-19T00:00:00-04:00" fase="clasificatoria">
+ <team name="Granma" c="5" h="7" e="2">
+  <runxining 1="1" 2="0" 3="0" 4="0" 5="1" 6="0" 7="1" 8="2" 9="0"></runxining>
+  <batters>
+   <player name="Roel Santos CF" vb="4" r="1" h="2" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Raico Santos RF,LF" vb="2" r="2" h="1" double="0" triple="0" hr="1" rbi="1" error="0"></player>
+   <player name="Carlos Benítez 2B" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="Lázaro Alfredo D" vb="2" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Darién García LF" vb="3" r="0" h="1" double="0" triple="0" hr="0" rbi="2" error="0"></player>
+   <player name="Yulián Rafael Milián SS" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Agustín Arias 1B" vb="5" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Hubert Sánchez C" vb="5" r="1" h="1" double="0" triple="0" hr="1" rbi="2" error="0"></player>
+   <player name="Osvaldo Abreu 3B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="1"></player>
+   <player name="César García P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Santana P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Alexquemer Sánchez RF" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ariel Pestano C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="César García" inn="7.0" vb="27" h="8" c="2" cl="1" so="3" bb="1" sb="0"></player>
+   <player name="Carlos Santana" inn="2.0" vb="7" h="2" c="0" cl="0" so="3" bb="0" sb="0"></player>
+  </pitchers>
+ </team>
+ <team name="Guantanamo" c="2" h="10" e="2">
+  <runxining 1="0" 2="0" 3="0" 4="0" 5="2" 6="0" 7="0" 8="0" 9="0"></runxining>
+  <batters>
+   <player name="Guillermo Gomez RF" vb="4" r="1" h="2" double="2" triple="0" hr="0" rbi="1" error="0"></player>
+   <player name="Yoilán Cercé 2B" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Over Cremet LF" vb="4" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Robert Luis Delgado 1B" vb="4" r="0" h="3" double="1" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Angel Sánchez SS" vb="2" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Félix Carbonell C" vb="4" r="0" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Gabriel Garbey 3B" vb="4" r="0" h="2" double="0" triple="0" hr="0" rbi="0" error="2"></player>
+   <player name="Pedro Revilla D" vb="4" r="1" h="1" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Luis Jairon CF" vb="3" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Reidel Moreira P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yoenni Turcás P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Orlandis Martínez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Enyer Fernandez P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Julio C. Preval P" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Yasmani Velazquez C" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Carlos Figueredo (a)" vb="0" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+   <player name="Ricardo Preval (b)" vb="1" r="0" h="0" double="0" triple="0" hr="0" rbi="0" error="0"></player>
+  </batters>
+  <pitchers>
+   <player name="Reidel Moreira" inn="5.0" vb="16" h="3" c="2" cl="1" so="1" bb="5" sb="0"></player>
+   <player name="Yoenni Turcás" inn="1.2" vb="6" h="2" c="1" cl="1" so="0" bb="1" sb="1"></player>
+   <player name="Orlandis Martínez" inn="0.2" vb="5" h="2" c="2" cl="1" so="1" bb="0" sb="0"></player>
+   <player name="Enyer Fernandez" inn="0.0" vb="0" h="0" c="0" cl="0" so="0" bb="1" sb="0"></player>
+   <player name="Julio C. Preval" inn="1.2" vb="5" h="0" c="0" cl="0" so="1" bb="1" sb="0"></player>
+  </pitchers>
+ </team>
+ <pronostico>
+  <voto name="A favor de Guantanamo" valor="5"></voto>
+  <voto name="A favor de Granma" valor="104"></voto>
+ </pronostico>
+</game>
